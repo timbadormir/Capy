@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 76c3f805b22bb894abd0025065ebf666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8970926172033547204
+    second: mini capy3_0
+  - first:
+      213: 5888804011411112165
+    second: mini capy3_1
+  - first:
+      213: 4173536765879569958
+    second: mini capy3_2
+  - first:
+      213: -8224469672376259629
+    second: mini capy3_3
+  - first:
+      213: -7294467779446757760
+    second: mini capy3_4
+  - first:
+      213: 2558606906986470968
+    second: mini capy3_5
+  - first:
+      213: -5055913014185558076
+    second: mini capy3_6
+  - first:
+      213: 2065297911122949953
+    second: mini capy3_7
+  - first:
+      213: -2057642696968210841
+    second: mini capy3_8
+  - first:
+      213: 2042189869663337591
+    second: mini capy3_9
+  - first:
+      213: -3494361618880354488
+    second: mini capy3_10
+  - first:
+      213: 6304611550319041702
+    second: mini capy3_11
+  - first:
+      213: -7995520592619089003
+    second: mini capy3_12
+  - first:
+      213: 7191817645418115270
+    second: mini capy3_13
+  - first:
+      213: -828361916047015845
+    second: mini capy3_14
+  - first:
+      213: -6742016699282782460
+    second: mini capy3_15
+  - first:
+      213: -1213500359868253576
+    second: mini capy3_16
+  - first:
+      213: 6554972427767451462
+    second: mini capy3_17
+  - first:
+      213: 2590141013258524063
+    second: mini capy3_18
+  - first:
+      213: 5710480130450525751
+    second: mini capy3_19
+  - first:
+      213: -3967719668247457057
+    second: mini capy3_20
+  - first:
+      213: -7195877055203214138
+    second: mini capy3_21
+  - first:
+      213: 629640236551889389
+    second: mini capy3_22
+  - first:
+      213: -3187953998917755816
+    second: mini capy3_23
+  - first:
+      213: 2712370005405490298
+    second: mini capy3_24
+  - first:
+      213: -6140254129224358967
+    second: mini capy3_25
+  - first:
+      213: -580376988377987843
+    second: mini capy3_26
+  - first:
+      213: -2965960083136357202
+    second: mini capy3_27
+  - first:
+      213: -1985469628262913788
+    second: mini capy3_28
+  - first:
+      213: 363535816186118886
+    second: mini capy3_29
+  - first:
+      213: 7186049315793182491
+    second: mini capy3_30
+  - first:
+      213: -5173800906645388862
+    second: mini capy3_31
+  - first:
+      213: 3069724101310677709
+    second: mini capy3_32
+  - first:
+      213: 8881761338502359439
+    second: mini capy3_33
+  - first:
+      213: -6319692960883135354
+    second: mini capy3_34
+  - first:
+      213: 7021312843680198200
+    second: mini capy3_35
+  - first:
+      213: -8580479382884625849
+    second: mini capy3_36
+  - first:
+      213: 4593957041879459828
+    second: mini capy3_37
+  - first:
+      213: -1469913799291075451
+    second: mini capy3_38
+  - first:
+      213: 6791959905929324471
+    second: mini capy3_39
+  - first:
+      213: 7210163035225704760
+    second: mini capy3_40
+  - first:
+      213: -8197493664365824308
+    second: mini capy3_41
+  - first:
+      213: -7480527411214986728
+    second: mini capy3_42
+  - first:
+      213: 8446180768356677385
+    second: mini capy3_43
+  - first:
+      213: -1889658977454538737
+    second: mini capy3_44
+  - first:
+      213: 7192665858122729641
+    second: mini capy3_45
+  - first:
+      213: 758102766488396107
+    second: mini capy3_46
+  - first:
+      213: -1953635192821049100
+    second: mini capy3_47
+  - first:
+      213: -4715025859775461892
+    second: mini capy3_48
+  - first:
+      213: -7802629650056303264
+    second: mini capy3_49
+  - first:
+      213: 9127595148576551904
+    second: mini capy3_50
+  - first:
+      213: 1337296247422505174
+    second: mini capy3_51
+  - first:
+      213: -6000803564535006032
+    second: mini capy3_52
+  - first:
+      213: 6042443865185960346
+    second: mini capy3_53
+  - first:
+      213: 536848328260866323
+    second: mini capy3_54
+  - first:
+      213: -7119293027824736276
+    second: mini capy3_55
+  - first:
+      213: -4007778338346761751
+    second: mini capy3_56
+  - first:
+      213: -6815094454451331997
+    second: mini capy3_57
+  - first:
+      213: -3899992478519886905
+    second: mini capy3_58
+  - first:
+      213: -4712774070498033845
+    second: mini capy3_59
+  - first:
+      213: 2299604581843380839
+    second: mini capy3_60
+  - first:
+      213: 786965632363613828
+    second: mini capy3_61
+  - first:
+      213: -8206501010286054846
+    second: mini capy3_62
+  - first:
+      213: 4274644804011969275
+    second: mini capy3_63
+  - first:
+      213: -7590015899650859763
+    second: mini capy3_64
+  - first:
+      213: -8253299464192968839
+    second: mini capy3_65
+  - first:
+      213: 6938334861693448396
+    second: mini capy3_66
+  - first:
+      213: -4470575541870509944
+    second: mini capy3_67
+  - first:
+      213: -711221750311084524
+    second: mini capy3_68
+  - first:
+      213: -7114990645288362594
+    second: mini capy3_69
+  - first:
+      213: 5553683706101138570
+    second: mini capy3_70
+  - first:
+      213: -3946514538498266528
+    second: mini capy3_71
+  - first:
+      213: -1224215407080005750
+    second: mini capy3_72
+  - first:
+      213: 8151096743702148728
+    second: mini capy3_73
+  - first:
+      213: 5469995328387236204
+    second: mini capy3_74
+  - first:
+      213: 2487982052318362445
+    second: mini capy3_75
+  - first:
+      213: -3699824279360824162
+    second: mini capy3_76
+  - first:
+      213: -3311260224881616083
+    second: mini capy3_77
+  - first:
+      213: -4313242957911605747
+    second: mini capy3_78
+  - first:
+      213: -6047427079432906038
+    second: mini capy3_79
+  - first:
+      213: -5165112136657155062
+    second: mini capy3_80
+  - first:
+      213: -142916501563521645
+    second: mini capy3_81
+  - first:
+      213: 5079579478493685840
+    second: mini capy3_82
+  - first:
+      213: -2554024679775495573
+    second: mini capy3_83
+  - first:
+      213: 7888152625475839497
+    second: mini capy3_84
+  - first:
+      213: -8947072681890878319
+    second: mini capy3_85
+  - first:
+      213: -3117561930528648208
+    second: mini capy3_86
+  - first:
+      213: -6215830506733173334
+    second: mini capy3_87
+  - first:
+      213: 6926459396231183292
+    second: mini capy3_88
+  - first:
+      213: 7782783696469728853
+    second: mini capy3_89
+  - first:
+      213: -1282897083109799287
+    second: mini capy3_90
+  - first:
+      213: -3141290232763714523
+    second: mini capy3_91
+  - first:
+      213: -8425673721121635527
+    second: mini capy3_92
+  - first:
+      213: 3718709565883986786
+    second: mini capy3_93
+  - first:
+      213: 5435499593222329392
+    second: mini capy3_94
+  - first:
+      213: -6423036640267375307
+    second: mini capy3_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini capy3_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 356
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb705ec2d12f7c70800000000000000
+      internalID: 8970926172033547204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00e045c0c39b150800000000000000
+      internalID: 5888804011411112165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ec84383916be930800000000000000
+      internalID: 4173536765879569958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2a087860dcdd80800000000000000
+      internalID: -8224469672376259629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862b8cc338d4ca90800000000000000
+      internalID: -7294467779446757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1ac20d6ff18320800000000000000
+      internalID: 2558606906986470968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff136a6e9c5d9b0800000000000000
+      internalID: -5055913014185558076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147f6dbf18969ac10800000000000000
+      internalID: 2065297911122949953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76678847ed8c173e0800000000000000
+      internalID: -2057642696968210841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c3f21ddd0575c10800000000000000
+      internalID: 2042189869663337591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a0ed1f98818fc0800000000000000
+      internalID: -3494361618880354488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 356
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac579f3dca7e7750800000000000000
+      internalID: 6304611550319041702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 356
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5935e9212643a0190800000000000000
+      internalID: -7995520592619089003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 356
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0788c6b087ec360800000000000000
+      internalID: 7191817645418115270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504e88e9311184f0800000000000000
+      internalID: -828361916047015845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078f71688b8f62a0800000000000000
+      internalID: -6742016699282782460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a7e332ad7c82fe0800000000000000
+      internalID: -1213500359868253576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 372
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f0f8d71b0f7fa50800000000000000
+      internalID: 6554972427767451462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95d175478702f320800000000000000
+      internalID: 2590141013258524063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0e685c63bf3f40800000000000000
+      internalID: 5710480130450525751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd297cdcbf3dfe8c0800000000000000
+      internalID: -3967719668247457057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc7a3591fb132c90800000000000000
+      internalID: -7195877055203214138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e7fb857eecb800800000000000000
+      internalID: 629640236551889389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c983e7abc12c3d0800000000000000
+      internalID: -3187953998917755816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 325
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5e9f262644a520800000000000000
+      internalID: 2712370005405490298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 325
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e4f4e66f69caa0800000000000000
+      internalID: -6140254129224358967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df44beb343612f7f0800000000000000
+      internalID: -580376988377987843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5baac40bc6d6d0800000000000000
+      internalID: -2965960083136357202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ef0f74e13274e0800000000000000
+      internalID: -1985469628262913788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c7e216e98b0500800000000000000
+      internalID: 363535816186118886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 275
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f9a4687c9f9b360800000000000000
+      internalID: 7186049315793182491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1cec4cc77f238b0800000000000000
+      internalID: -5173800906645388862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc204195ec9d99a20800000000000000
+      internalID: 3069724101310677709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f892b3931ea524b70800000000000000
+      internalID: 8881761338502359439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c26093cb0fb48a0800000000000000
+      internalID: -6319692960883135354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e2270b4d6b07160800000000000000
+      internalID: 7021312843680198200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 241
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742599c66730ce880800000000000000
+      internalID: -8580479382884625849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f721aaf69301cf30800000000000000
+      internalID: 4593957041879459828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5848fceff21d99be0800000000000000
+      internalID: -1469913799291075451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7ec919c83e14e50800000000000000
+      internalID: 6791959905929324471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c7475415af0460800000000000000
+      internalID: 7210163035225704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 209
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b5f6c1f6ac3e80800000000000000
+      internalID: -8197493664365824308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 209
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81255f9f3f3df2890800000000000000
+      internalID: -7480527411214986728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 209
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b2a6b8acd63570800000000000000
+      internalID: 8446180768356677385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 209
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c13efb2596c5e0800000000000000
+      internalID: -1889658977454538737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 182
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84c755d7b71d360800000000000000
+      internalID: 7192665858122729641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4128c31372558a00800000000000000
+      internalID: 758102766488396107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f81337942b43e4e0800000000000000
+      internalID: -1953635192821049100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58d4936fcd09eb0800000000000000
+      internalID: -4715025859775461892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 173
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da6726cad77b390800000000000000
+      internalID: -7802629650056303264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3fb747d6bbbae70800000000000000
+      internalID: 9127595148576551904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 173
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d41b0ad70f8210800000000000000
+      internalID: 1337296247422505174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 172
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3ef0a3fcd8bca0800000000000000
+      internalID: -6000803564535006032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 146
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c5af5ea21bd350800000000000000
+      internalID: 6042443865185960346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115040d5b4437700800000000000000
+      internalID: 536848328260866323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 138
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76798f5b0333d90800000000000000
+      internalID: -7119293027824736276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 138
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1065cd5d28168c0800000000000000
+      internalID: -4007778338346761751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 138
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c91bb93bbeb61a0800000000000000
+      internalID: -6815094454451331997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb702bf08170e9c0800000000000000
+      internalID: -3899992478519886905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 138
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffa45c3fcd89eb0800000000000000
+      internalID: -4712774070498033845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa2a0fe26d9ef10800000000000000
+      internalID: 2299604581843380839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4977b21ddbea00800000000000000
+      internalID: 786965632363613828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f301afc6ac1e80800000000000000
+      internalID: -8206501010286054846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa4a1c1dc6925b30800000000000000
+      internalID: 4274644804011969275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 107
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5ebdb0c8daa690800000000000000
+      internalID: -7590015899650859763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 107
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773bdb7dd3667d80800000000000000
+      internalID: -8253299464192968839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 107
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc072fbbbcae94060800000000000000
+      internalID: 6938334861693448396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 108
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88042451b3355f1c0800000000000000
+      internalID: -4470575541870509944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1d28169b3126f0800000000000000
+      internalID: -711221750311084524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1c5774b9724d90800000000000000
+      internalID: -7114990645288362594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a848801f7e5a21d40800000000000000
+      internalID: 5553683706101138570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a65efcfe92b39c0800000000000000
+      internalID: -3946514538498266528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f9f6cc296b20fe0800000000000000
+      internalID: -1224215407080005750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 78
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876b5325d438e1170800000000000000
+      internalID: 8151096743702148728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61419715c359eb40800000000000000
+      internalID: 5469995328387236204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_75
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 78
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bbbf3ae76178220800000000000000
+      internalID: 2487982052318362445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 78
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1551ab6597acc0800000000000000
+      internalID: -3699824279360824162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 78
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b1d098e5a0c02d0800000000000000
+      internalID: -3311260224881616083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e39bfd1684424c0800000000000000
+      internalID: -4313242957911605747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad255ac19331ca0800000000000000
+      internalID: -6047427079432906038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ccd7da0e5d158b0800000000000000
+      internalID: -5165112136657155062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c3c3f232440ef0800000000000000
+      internalID: -142916501563521645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058eaf77f9a4e7640800000000000000
+      internalID: 5079579478493685840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 40
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a9666e5184e8cd0800000000000000
+      internalID: -2554024679775495573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 39
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9066d870509587d60800000000000000
+      internalID: 7888152625475839497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_85
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 38
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cea48accc95d380800000000000000
+      internalID: -8947072681890878319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 37
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f31f8511f13cb4d0800000000000000
+      internalID: -3117561930528648208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50226461fecb9a0800000000000000
+      internalID: -6215830506733173334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb6877f1abf1060800000000000000
+      internalID: 6926459396231183292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e97c77980020c60800000000000000
+      internalID: 7782783696469728853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a0bd566eb323ee0800000000000000
+      internalID: -1282897083109799287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f6b33d25e764d0800000000000000
+      internalID: -3141290232763714523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933833b446ef11b80800000000000000
+      internalID: -8425673721121635527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263bc59c5a28b9330800000000000000
+      internalID: 3718709565883986786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341cced416ce6b40800000000000000
+      internalID: 5435499593222329392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini capy3_95
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d6b85d43accd6a0800000000000000
+      internalID: -6423036640267375307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mini capy3_0: 8970926172033547204
+      mini capy3_1: 5888804011411112165
+      mini capy3_10: -3494361618880354488
+      mini capy3_11: 6304611550319041702
+      mini capy3_12: -7995520592619089003
+      mini capy3_13: 7191817645418115270
+      mini capy3_14: -828361916047015845
+      mini capy3_15: -6742016699282782460
+      mini capy3_16: -1213500359868253576
+      mini capy3_17: 6554972427767451462
+      mini capy3_18: 2590141013258524063
+      mini capy3_19: 5710480130450525751
+      mini capy3_2: 4173536765879569958
+      mini capy3_20: -3967719668247457057
+      mini capy3_21: -7195877055203214138
+      mini capy3_22: 629640236551889389
+      mini capy3_23: -3187953998917755816
+      mini capy3_24: 2712370005405490298
+      mini capy3_25: -6140254129224358967
+      mini capy3_26: -580376988377987843
+      mini capy3_27: -2965960083136357202
+      mini capy3_28: -1985469628262913788
+      mini capy3_29: 363535816186118886
+      mini capy3_3: -8224469672376259629
+      mini capy3_30: 7186049315793182491
+      mini capy3_31: -5173800906645388862
+      mini capy3_32: 3069724101310677709
+      mini capy3_33: 8881761338502359439
+      mini capy3_34: -6319692960883135354
+      mini capy3_35: 7021312843680198200
+      mini capy3_36: -8580479382884625849
+      mini capy3_37: 4593957041879459828
+      mini capy3_38: -1469913799291075451
+      mini capy3_39: 6791959905929324471
+      mini capy3_4: -7294467779446757760
+      mini capy3_40: 7210163035225704760
+      mini capy3_41: -8197493664365824308
+      mini capy3_42: -7480527411214986728
+      mini capy3_43: 8446180768356677385
+      mini capy3_44: -1889658977454538737
+      mini capy3_45: 7192665858122729641
+      mini capy3_46: 758102766488396107
+      mini capy3_47: -1953635192821049100
+      mini capy3_48: -4715025859775461892
+      mini capy3_49: -7802629650056303264
+      mini capy3_5: 2558606906986470968
+      mini capy3_50: 9127595148576551904
+      mini capy3_51: 1337296247422505174
+      mini capy3_52: -6000803564535006032
+      mini capy3_53: 6042443865185960346
+      mini capy3_54: 536848328260866323
+      mini capy3_55: -7119293027824736276
+      mini capy3_56: -4007778338346761751
+      mini capy3_57: -6815094454451331997
+      mini capy3_58: -3899992478519886905
+      mini capy3_59: -4712774070498033845
+      mini capy3_6: -5055913014185558076
+      mini capy3_60: 2299604581843380839
+      mini capy3_61: 786965632363613828
+      mini capy3_62: -8206501010286054846
+      mini capy3_63: 4274644804011969275
+      mini capy3_64: -7590015899650859763
+      mini capy3_65: -8253299464192968839
+      mini capy3_66: 6938334861693448396
+      mini capy3_67: -4470575541870509944
+      mini capy3_68: -711221750311084524
+      mini capy3_69: -7114990645288362594
+      mini capy3_7: 2065297911122949953
+      mini capy3_70: 5553683706101138570
+      mini capy3_71: -3946514538498266528
+      mini capy3_72: -1224215407080005750
+      mini capy3_73: 8151096743702148728
+      mini capy3_74: 5469995328387236204
+      mini capy3_75: 2487982052318362445
+      mini capy3_76: -3699824279360824162
+      mini capy3_77: -3311260224881616083
+      mini capy3_78: -4313242957911605747
+      mini capy3_79: -6047427079432906038
+      mini capy3_8: -2057642696968210841
+      mini capy3_80: -5165112136657155062
+      mini capy3_81: -142916501563521645
+      mini capy3_82: 5079579478493685840
+      mini capy3_83: -2554024679775495573
+      mini capy3_84: 7888152625475839497
+      mini capy3_85: -8947072681890878319
+      mini capy3_86: -3117561930528648208
+      mini capy3_87: -6215830506733173334
+      mini capy3_88: 6926459396231183292
+      mini capy3_89: 7782783696469728853
+      mini capy3_9: 2042189869663337591
+      mini capy3_90: -1282897083109799287
+      mini capy3_91: -3141290232763714523
+      mini capy3_92: -8425673721121635527
+      mini capy3_93: 3718709565883986786
+      mini capy3_94: 5435499593222329392
+      mini capy3_95: -6423036640267375307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

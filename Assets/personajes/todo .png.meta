@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: db4cde891c8cfbb4e819894bf6b18c26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8774181886731760886
+    second: todo _0
+  - first:
+      213: 7551015263306880376
+    second: todo _1
+  - first:
+      213: 8910382127752857909
+    second: todo _2
+  - first:
+      213: -7067276399407398658
+    second: todo _3
+  - first:
+      213: -5065717822597988722
+    second: todo _4
+  - first:
+      213: 6704151427451911416
+    second: todo _5
+  - first:
+      213: 4450272537935267532
+    second: todo _6
+  - first:
+      213: 6100342344061948420
+    second: todo _7
+  - first:
+      213: 6040983197401720533
+    second: todo _8
+  - first:
+      213: 1113701972804600659
+    second: todo _9
+  - first:
+      213: 4092702822849875103
+    second: todo _10
+  - first:
+      213: 2754756920760496932
+    second: todo _11
+  - first:
+      213: -7693116257649476525
+    second: todo _12
+  - first:
+      213: 8939166976402582380
+    second: todo _13
+  - first:
+      213: -1862389220969471760
+    second: todo _14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: todo _0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1019
+        width: 252
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bcfa6cf08db3680800000000000000
+      internalID: -8774181886731760886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1019
+        width: 172
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87595feff589ac860800000000000000
+      internalID: 7551015263306880376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1019
+        width: 192
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c2b1065908ab70800000000000000
+      internalID: 8910382127752857909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1009
+        width: 172
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef002db0f8dfbed90800000000000000
+      internalID: -7067276399407398658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 679
+        width: 312
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7eabca74f2b9b0800000000000000
+      internalID: -5065717822597988722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 759
+        width: 272
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf2b1043ee90d50800000000000000
+      internalID: 6704151427451911416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 659
+        width: 252
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6ce417b4b82cd30800000000000000
+      internalID: 4450272537935267532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 819
+        width: 202
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402161a7a05c8a450800000000000000
+      internalID: 6100342344061948420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 709
+        width: 142
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ab372632e5d350800000000000000
+      internalID: 6040983197401720533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 379
+        width: 252
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3538baa2b0aa47f00800000000000000
+      internalID: 1113701972804600659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 449
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c843788833cc830800000000000000
+      internalID: 4092702822849875103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 319
+        width: 252
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237a78f2dcda3620800000000000000
+      internalID: 2754756920760496932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _12
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 429
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c3507068f8c3590800000000000000
+      internalID: -7693116257649476525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 59
+        width: 252
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be068d00d4e0c70800000000000000
+      internalID: 8939166976402582380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: todo _14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 119
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02992fed67726e0800000000000000
+      internalID: -1862389220969471760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      todo _0: -8774181886731760886
+      todo _1: 7551015263306880376
+      todo _10: 4092702822849875103
+      todo _11: 2754756920760496932
+      todo _12: -7693116257649476525
+      todo _13: 8939166976402582380
+      todo _14: -1862389220969471760
+      todo _2: 8910382127752857909
+      todo _3: -7067276399407398658
+      todo _4: -5065717822597988722
+      todo _5: 6704151427451911416
+      todo _6: 4450272537935267532
+      todo _7: 6100342344061948420
+      todo _8: 6040983197401720533
+      todo _9: 1113701972804600659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

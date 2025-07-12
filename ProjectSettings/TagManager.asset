@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - suelo
+  - Player
+  - Portal
+  - Fondo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1090538543
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 992815893
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Layer 1
+  - Layer 2
