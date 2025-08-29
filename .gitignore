@@ -1,26 +1,48 @@
+[Librerías generadas por Unity]
 [Libraries]
-[Ll]ibrary
-[Tt]emp
-[Oo]bj
-[Bb]uild
-[Bb]uilds
-[Ll]ogs
+[Libraries]/
+[Libraries]/*
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
 
-# User-specific files
-.csproj
-.unityproj
-.sln
-.suo
-.tmp
-.user
-.userprefs
-.pidb
-.booproj
-.svd
+# Archivos de usuario de Unity
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.svd
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# Configuración de Rider y VS
+.vscode/
+.idea/
+*.iml
 
-# Crashlytics
-crashlytics-build.properties
+# Archivos de caché y backups
+sysinfo.txt
+*.stackdump
+*.log
+*.bak
+*.backup
+*.swp
+*.lock
+
+# Builds finales
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+*.msi
+
+# Carpetas locales de Unity Hub
+*.gradle
+*.vs/
