@@ -37,9 +37,9 @@ echo 📝 Creando commit: "%msg%"...
 git commit -m "%msg%"
 
 echo.
-echo 📡 Subiendo cambios a GitHub...
-git push origin main
+echo 📡 Subiendo cambios a GitHub (rama eteches)...
+git push origin eteches
 
 echo.
-echo ✅ ¡Listo, Capy está actualizado en GitHub! 🦫🚀
+echo ✅ ¡Listo, Capy está actualizado en GitHub (rama eteches)! 🦫🚀
 pause
