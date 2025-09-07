@@ -18,6 +18,7 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
+<<<<<<< HEAD
             rid: 7269234365755818274
         - key: 1
           value:
@@ -25,6 +26,15 @@ MonoBehaviour:
         - key: 2
           value:
             rid: 7269234365755818276
+=======
+            rid: 8898713897315598637
+        - key: 1
+          value:
+            rid: 8898713897315598638
+        - key: 2
+          value:
+            rid: 8898713897315598639
+>>>>>>> 3ef8da2df37c1531e0e6aeb8ef59703279d240cc
       lastMaterialMappings:
         serializedData:
         - key: Invalid
@@ -35,6 +45,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+<<<<<<< HEAD
     - rid: 7269234365755818274
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
@@ -47,6 +58,8 @@ MonoBehaviour:
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
         modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+=======
+>>>>>>> 3ef8da2df37c1531e0e6aeb8ef59703279d240cc
     - rid: 8880192673114751175
       type: {class: 'SerializableDictionary`2[[Unity.AI.Material.Services.Stores.States.MapType, Unity.AI.Material],[System.String, mscorlib]]', ns: Unity.AI.Generators.Redux.Toolkit, asm: Unity.AI.Generators.Redux}
       data:
@@ -73,3 +86,15 @@ MonoBehaviour:
           value: None
         - key: 11
           value: None
+    - rid: 8898713897315598637
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+    - rid: 8898713897315598638
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+    - rid: 8898713897315598639
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234

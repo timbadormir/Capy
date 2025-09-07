@@ -49,7 +49,7 @@ public class EnemigoPerseguidor : MonoBehaviour
     void Saltar()
     {
         // Solo salta si está en el suelo
-        if (Mathf.Abs(rb.velocity.y) < 0.01f)
+        if (Mathf.Abs(rb.linearVelocity.y) < 0.01f)
         {
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
             Debug.Log("🟢 El enemigo saltó!");
