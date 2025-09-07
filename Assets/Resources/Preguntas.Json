@@ -1,0 +1,2764 @@
+{
+  "matematicas": {
+    "nivel_1": [
+      {
+        "id": 1,
+        "enunciado": "Calcula: 12 + 15",
+        "opciones": [
+          { "id": "A", "texto": "25" },
+          { "id": "B", "texto": "27" },
+          { "id": "C", "texto": "28" },
+          { "id": "D", "texto": "30" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 2,
+        "enunciado": "Calcula: 20 - 8",
+        "opciones": [
+          { "id": "A", "texto": "10" },
+          { "id": "B", "texto": "12" },
+          { "id": "C", "texto": "14" },
+          { "id": "D", "texto": "11" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 3,
+        "enunciado": "Calcula: 7 × 4",
+        "opciones": [
+          { "id": "A", "texto": "24" },
+          { "id": "B", "texto": "26" },
+          { "id": "C", "texto": "28" },
+          { "id": "D", "texto": "30" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 4,
+        "enunciado": "Calcula: 36 ÷ 9",
+        "opciones": [
+          { "id": "A", "texto": "3" },
+          { "id": "B", "texto": "4" },
+          { "id": "C", "texto": "5" },
+          { "id": "D", "texto": "6" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 5,
+        "enunciado": "Calcula: 9 + 17",
+        "opciones": [
+          { "id": "A", "texto": "26" },
+          { "id": "B", "texto": "24" },
+          { "id": "C", "texto": "25" },
+          { "id": "D", "texto": "27" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 6,
+        "enunciado": "Calcula: 15 - 6",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 7,
+        "enunciado": "Calcula: 8 × 5",
+        "opciones": [
+          { "id": "A", "texto": "35" },
+          { "id": "B", "texto": "40" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 8,
+        "enunciado": "Calcula: 48 ÷ 6",
+        "opciones": [
+          { "id": "A", "texto": "6" },
+          { "id": "B", "texto": "7" },
+          { "id": "C", "texto": "8" },
+          { "id": "D", "texto": "9" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 9,
+        "enunciado": "Calcula: 23 + 19",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "41" },
+          { "id": "C", "texto": "42" },
+          { "id": "D", "texto": "43" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 10,
+        "enunciado": "Calcula: 30 - 12",
+        "opciones": [
+          { "id": "A", "texto": "16" },
+          { "id": "B", "texto": "17" },
+          { "id": "C", "texto": "18" },
+          { "id": "D", "texto": "19" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 11,
+        "enunciado": "Calcula: 9 × 6",
+        "opciones": [
+          { "id": "A", "texto": "52" },
+          { "id": "B", "texto": "54" },
+          { "id": "C", "texto": "56" },
+          { "id": "D", "texto": "58" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 12,
+        "enunciado": "Calcula: 64 ÷ 8",
+        "opciones": [
+          { "id": "A", "texto": "6" },
+          { "id": "B", "texto": "7" },
+          { "id": "C", "texto": "8" },
+          { "id": "D", "texto": "9" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 13,
+        "enunciado": "Calcula: 14 + 22",
+        "opciones": [
+          { "id": "A", "texto": "34" },
+          { "id": "B", "texto": "35" },
+          { "id": "C", "texto": "36" },
+          { "id": "D", "texto": "37" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 14,
+        "enunciado": "Calcula: 25 - 7",
+        "opciones": [
+          { "id": "A", "texto": "16" },
+          { "id": "B", "texto": "17" },
+          { "id": "C", "texto": "18" },
+          { "id": "D", "texto": "19" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 15,
+        "enunciado": "Calcula: 6 × 7",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "42" },
+          { "id": "C", "texto": "44" },
+          { "id": "D", "texto": "46" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 16,
+        "enunciado": "Calcula: 72 ÷ 9",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 17,
+        "enunciado": "Calcula: 19 + 13",
+        "opciones": [
+          { "id": "A", "texto": "30" },
+          { "id": "B", "texto": "31" },
+          { "id": "C", "texto": "32" },
+          { "id": "D", "texto": "33" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 18,
+        "enunciado": "Calcula: 40 - 15",
+        "opciones": [
+          { "id": "A", "texto": "23" },
+          { "id": "B", "texto": "24" },
+          { "id": "C", "texto": "25" },
+          { "id": "D", "texto": "26" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 19,
+        "enunciado": "Calcula: 5 × 8",
+        "opciones": [
+          { "id": "A", "texto": "35" },
+          { "id": "B", "texto": "40" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 20,
+        "enunciado": "Calcula: 56 ÷ 7",
+        "opciones": [
+          { "id": "A", "texto": "6" },
+          { "id": "B", "texto": "7" },
+          { "id": "C", "texto": "8" },
+          { "id": "D", "texto": "9" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 21,
+        "enunciado": "Calcula: 16 + 24",
+        "opciones": [
+          { "id": "A", "texto": "38" },
+          { "id": "B", "texto": "39" },
+          { "id": "C", "texto": "40" },
+          { "id": "D", "texto": "41" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 22,
+        "enunciado": "Calcula: 33 - 14",
+        "opciones": [
+          { "id": "A", "texto": "17" },
+          { "id": "B", "texto": "18" },
+          { "id": "C", "texto": "19" },
+          { "id": "D", "texto": "20" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 23,
+        "enunciado": "Calcula: 7 × 9",
+        "opciones": [
+          { "id": "A", "texto": "60" },
+          { "id": "B", "texto": "63" },
+          { "id": "C", "texto": "65" },
+          { "id": "D", "texto": "67" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 24,
+        "enunciado": "Calcula: 81 ÷ 9",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 25,
+        "enunciado": "Calcula: 28 + 17",
+        "opciones": [
+          { "id": "A", "texto": "43" },
+          { "id": "B", "texto": "44" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "46" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 26,
+        "enunciado": "Calcula: 50 - 22",
+        "opciones": [
+          { "id": "A", "texto": "26" },
+          { "id": "B", "texto": "27" },
+          { "id": "C", "texto": "28" },
+          { "id": "D", "texto": "29" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 27,
+        "enunciado": "Calcula: 6 × 6",
+        "opciones": [
+          { "id": "A", "texto": "34" },
+          { "id": "B", "texto": "36" },
+          { "id": "C", "texto": "38" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 28,
+        "enunciado": "Calcula: 45 ÷ 5",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 29,
+        "enunciado": "Calcula: 21 + 18",
+        "opciones": [
+          { "id": "A", "texto": "37" },
+          { "id": "B", "texto": "38" },
+          { "id": "C", "texto": "39" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 30,
+        "enunciado": "Calcula: 29 - 11",
+        "opciones": [
+          { "id": "A", "texto": "16" },
+          { "id": "B", "texto": "17" },
+          { "id": "C", "texto": "18" },
+          { "id": "D", "texto": "19" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 31,
+        "enunciado": "Calcula: 8 × 8",
+        "opciones": [
+          { "id": "A", "texto": "60" },
+          { "id": "B", "texto": "64" },
+          { "id": "C", "texto": "68" },
+          { "id": "D", "texto": "72" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 32,
+        "enunciado": "Calcula: 54 ÷ 6",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 33,
+        "enunciado": "Calcula: 13 + 27",
+        "opciones": [
+          { "id": "A", "texto": "38" },
+          { "id": "B", "texto": "39" },
+          { "id": "C", "texto": "40" },
+          { "id": "D", "texto": "41" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 34,
+        "enunciado": "Calcula: 44 - 19",
+        "opciones": [
+          { "id": "A", "texto": "23" },
+          { "id": "B", "texto": "24" },
+          { "id": "C", "texto": "25" },
+          { "id": "D", "texto": "26" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 35,
+        "enunciado": "Calcula: 9 × 7",
+        "opciones": [
+          { "id": "A", "texto": "60" },
+          { "id": "B", "texto": "63" },
+          { "id": "C", "texto": "65" },
+          { "id": "D", "texto": "67" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 36,
+        "enunciado": "Calcula: 63 ÷ 7",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 37,
+        "enunciado": "Calcula: 22 + 16",
+        "opciones": [
+          { "id": "A", "texto": "36" },
+          { "id": "B", "texto": "37" },
+          { "id": "C", "texto": "38" },
+          { "id": "D", "texto": "39" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 38,
+        "enunciado": "Calcula: 35 - 13",
+        "opciones": [
+          { "id": "A", "texto": "20" },
+          { "id": "B", "texto": "21" },
+          { "id": "C", "texto": "22" },
+          { "id": "D", "texto": "23" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 39,
+        "enunciado": "Calcula: 6 × 9",
+        "opciones": [
+          { "id": "A", "texto": "52" },
+          { "id": "B", "texto": "54" },
+          { "id": "C", "texto": "56" },
+          { "id": "D", "texto": "58" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 40,
+        "enunciado": "Calcula: 72 ÷ 8",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 41,
+        "enunciado": "Calcula: 18 + 25",
+        "opciones": [
+          { "id": "A", "texto": "41" },
+          { "id": "B", "texto": "42" },
+          { "id": "C", "texto": "43" },
+          { "id": "D", "texto": "44" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 42,
+        "enunciado": "Calcula: 47 - 18",
+        "opciones": [
+          { "id": "A", "texto": "27" },
+          { "id": "B", "texto": "28" },
+          { "id": "C", "texto": "29" },
+          { "id": "D", "texto": "30" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 43,
+        "enunciado": "Calcula: 8 × 6",
+        "opciones": [
+          { "id": "A", "texto": "44" },
+          { "id": "B", "texto": "46" },
+          { "id": "C", "texto": "48" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 44,
+        "enunciado": "Calcula: 90 ÷ 10",
+        "opciones": [
+          { "id": "A", "texto": "8" },
+          { "id": "B", "texto": "9" },
+          { "id": "C", "texto": "10" },
+          { "id": "D", "texto": "11" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 45,
+        "enunciado": "Calcula: 27 + 14",
+        "opciones": [
+          { "id": "A", "texto": "39" },
+          { "id": "B", "texto": "40" },
+          { "id": "C", "texto": "41" },
+          { "id": "D", "texto": "42" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 46,
+        "enunciado": "Calcula: 38 - 16",
+        "opciones": [
+          { "id": "A", "texto": "20" },
+          { "id": "B", "texto": "21" },
+          { "id": "C", "texto": "22" },
+          { "id": "D", "texto": "23" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 47,
+        "enunciado": "Calcula: 7 × 8",
+        "opciones": [
+          { "id": "A", "texto": "54" },
+          { "id": "B", "texto": "56" },
+          { "id": "C", "texto": "58" },
+          { "id": "D", "texto": "60" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 48,
+        "enunciado": "Calcula: 80 ÷ 10",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 49,
+        "enunciado": "Calcula: 15 + 28",
+        "opciones": [
+          { "id": "A", "texto": "41" },
+          { "id": "B", "texto": "42" },
+          { "id": "C", "texto": "43" },
+          { "id": "D", "texto": "44" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 50,
+        "enunciado": "Calcula: 60 - 25",
+        "opciones": [
+          { "id": "A", "texto": "33" },
+          { "id": "B", "texto": "34" },
+          { "id": "C", "texto": "35" },
+          { "id": "D", "texto": "36" }
+        ],
+        "respuesta_correcta": "C"
+      }
+    ],
+    "nivel_2": [
+      {
+        "id": 51,
+        "enunciado": "Calcula: 1/2 + 1/4",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "3/4" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "1/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 52,
+        "enunciado": "¿Qué es el 25% de 80?",
+        "opciones": [
+          { "id": "A", "texto": "15" },
+          { "id": "B", "texto": "20" },
+          { "id": "C", "texto": "25" },
+          { "id": "D", "texto": "30" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 53,
+        "enunciado": "Calcula: 3/5 - 1/5",
+        "opciones": [
+          { "id": "A", "texto": "1/5" },
+          { "id": "B", "texto": "2/5" },
+          { "id": "C", "texto": "3/10" },
+          { "id": "D", "texto": "4/5" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 54,
+        "enunciado": "¿Qué es el 40% de 50?",
+        "opciones": [
+          { "id": "A", "texto": "15" },
+          { "id": "B", "texto": "20" },
+          { "id": "C", "texto": "25" },
+          { "id": "D", "texto": "30" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 55,
+        "enunciado": "Calcula: 2/3 × 3/4",
+        "opciones": [
+          { "id": "A", "texto": "1/2" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/6" },
+          { "id": "D", "texto": "2/4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 56,
+        "enunciado": "¿Qué es el 10% de 200?",
+        "opciones": [
+          { "id": "A", "texto": "10" },
+          { "id": "B", "texto": "15" },
+          { "id": "C", "texto": "20" },
+          { "id": "D", "texto": "25" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 57,
+        "enunciado": "Calcula: 4/5 ÷ 2",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "3/5" },
+          { "id": "D", "texto": "4/10" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 58,
+        "enunciado": "¿Qué es el 75% de 60?",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "45" },
+          { "id": "C", "texto": "50" },
+          { "id": "D", "texto": "55" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 59,
+        "enunciado": "Calcula: 1/3 + 2/3",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "2/3" },
+          { "id": "C", "texto": "1" },
+          { "id": "D", "texto": "3/3" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 60,
+        "enunciado": "¿Qué es el 30% de 120?",
+        "opciones": [
+          { "id": "A", "texto": "30" },
+          { "id": "B", "texto": "36" },
+          { "id": "C", "texto": "40" },
+          { "id": "D", "texto": "42" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 61,
+        "enunciado": "Calcula: 3/4 - 1/4",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/4" },
+          { "id": "D", "texto": "3/8" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 62,
+        "enunciado": "¿Qué es el 20% de 150?",
+        "opciones": [
+          { "id": "A", "texto": "25" },
+          { "id": "B", "texto": "30" },
+          { "id": "C", "texto": "35" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 63,
+        "enunciado": "Calcula: 2/5 × 5/6",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "2/3" },
+          { "id": "C", "texto": "1/6" },
+          { "id": "D", "texto": "1/5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 64,
+        "enunciado": "¿Qué es el 50% de 90?",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "45" },
+          { "id": "C", "texto": "50" },
+          { "id": "D", "texto": "55" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 65,
+        "enunciado": "Calcula: 5/6 ÷ 2",
+        "opciones": [
+          { "id": "A", "texto": "5/12" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/5" },
+          { "id": "D", "texto": "5/6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 66,
+        "enunciado": "¿Qué es el 15% de 100?",
+        "opciones": [
+          { "id": "A", "texto": "10" },
+          { "id": "B", "texto": "15" },
+          { "id": "C", "texto": "20" },
+          { "id": "D", "texto": "25" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 67,
+        "enunciado": "Calcula: 2/3 + 1/6",
+        "opciones": [
+          { "id": "A", "texto": "1/2" },
+          { "id": "B", "texto": "5/6" },
+          { "id": "C", "texto": "3/4" },
+          { "id": "D", "texto": "2/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 68,
+        "enunciado": "¿Qué es el 60% de 70?",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "42" },
+          { "id": "C", "texto": "44" },
+          { "id": "D", "texto": "46" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 69,
+        "enunciado": "Calcula: 4/7 - 2/7",
+        "opciones": [
+          { "id": "A", "texto": "1/7" },
+          { "id": "B", "texto": "2/7" },
+          { "id": "C", "texto": "3/7" },
+          { "id": "D", "texto": "4/7" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 70,
+        "enunciado": "¿Qué es el 35% de 80?",
+        "opciones": [
+          { "id": "A", "texto": "26" },
+          { "id": "B", "texto": "28" },
+          { "id": "C", "texto": "30" },
+          { "id": "D", "texto": "32" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 71,
+        "enunciado": "Calcula: 3/8 × 4/3",
+        "opciones": [
+          { "id": "A", "texto": "1/2" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/4" },
+          { "id": "D", "texto": "2/3" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 72,
+        "enunciado": "¿Qué es el 80% de 50?",
+        "opciones": [
+          { "id": "A", "texto": "35" },
+          { "id": "B", "texto": "40" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 73,
+        "enunciado": "Calcula: 5/9 ÷ 5",
+        "opciones": [
+          { "id": "A", "texto": "1/9" },
+          { "id": "B", "texto": "2/9" },
+          { "id": "C", "texto": "1/5" },
+          { "id": "D", "texto": "3/9" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 74,
+        "enunciado": "¿Qué es el 45% de 120?",
+        "opciones": [
+          { "id": "A", "texto": "50" },
+          { "id": "B", "texto": "54" },
+          { "id": "C", "texto": "58" },
+          { "id": "D", "texto": "60" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 75,
+        "enunciado": "Calcula: 1/4 + 3/8",
+        "opciones": [
+          { "id": "A", "texto": "5/8" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "3/4" },
+          { "id": "D", "texto": "1/3" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 76,
+        "enunciado": "¿Qué es el 70% de 90?",
+        "opciones": [
+          { "id": "A", "texto": "60" },
+          { "id": "B", "texto": "63" },
+          { "id": "C", "texto": "66" },
+          { "id": "D", "texto": "69" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 77,
+        "enunciado": "Calcula: 5/6 - 1/3",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/3" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 78,
+        "enunciado": "¿Qué es el 25% de 160?",
+        "opciones": [
+          { "id": "A", "texto": "35" },
+          { "id": "B", "texto": "40" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 79,
+        "enunciado": "Calcula: 2/5 × 3/2",
+        "opciones": [
+          { "id": "A", "texto": "3/5" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/3" },
+          { "id": "D", "texto": "1/3" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 80,
+        "enunciado": "¿Qué es el 90% de 40?",
+        "opciones": [
+          { "id": "A", "texto": "32" },
+          { "id": "B", "texto": "34" },
+          { "id": "C", "texto": "36" },
+          { "id": "D", "texto": "38" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 81,
+        "enunciado": "Calcula: 7/8 ÷ 2",
+        "opciones": [
+          { "id": "A", "texto": "7/16" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "3/8" },
+          { "id": "D", "texto": "1/4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 82,
+        "enunciado": "¿Qué es el 55% de 100?",
+        "opciones": [
+          { "id": "A", "texto": "50" },
+          { "id": "B", "texto": "55" },
+          { "id": "C", "texto": "60" },
+          { "id": "D", "texto": "65" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 83,
+        "enunciado": "Calcula: 3/4 + 1/8",
+        "opciones": [
+          { "id": "A", "texto": "7/8" },
+          { "id": "B", "texto": "5/8" },
+          { "id": "C", "texto": "3/4" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 84,
+        "enunciado": "¿Qué es el 65% de 80?",
+        "opciones": [
+          { "id": "A", "texto": "50" },
+          { "id": "B", "texto": "52" },
+          { "id": "C", "texto": "54" },
+          { "id": "D", "texto": "56" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 85,
+        "enunciado": "Calcula: 2/7 - 1/7",
+        "opciones": [
+          { "id": "A", "texto": "1/7" },
+          { "id": "B", "texto": "2/7" },
+          { "id": "C", "texto": "3/7" },
+          { "id": "D", "texto": "1/14" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 86,
+        "enunciado": "¿Qué es el 85% de 60?",
+        "opciones": [
+          { "id": "A", "texto": "49" },
+          { "id": "B", "texto": "51" },
+          { "id": "C", "texto": "53" },
+          { "id": "D", "texto": "55" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 87,
+        "enunciado": "Calcula: 3/5 × 5/6",
+        "opciones": [
+          { "id": "A", "texto": "1/2" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/6" },
+          { "id": "D", "texto": "1/10" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 88,
+        "enunciado": "¿Qué es el 20% de 180?",
+        "opciones": [
+          { "id": "A", "texto": "34" },
+          { "id": "B", "texto": "36" },
+          { "id": "C", "texto": "38" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 89,
+        "enunciado": "Calcula: 4/9 ÷ 2",
+        "opciones": [
+          { "id": "A", "texto": "2/9" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/4" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 90,
+        "enunciado": "¿Qué es el 95% de 40?",
+        "opciones": [
+          { "id": "A", "texto": "36" },
+          { "id": "B", "texto": "38" },
+          { "id": "C", "texto": "40" },
+          { "id": "D", "texto": "42" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 91,
+        "enunciado": "Calcula: 1/2 + 3/8",
+        "opciones": [
+          { "id": "A", "texto": "7/8" },
+          { "id": "B", "texto": "5/8" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "3/4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 92,
+        "enunciado": "¿Qué es el 30% de 150?",
+        "opciones": [
+          { "id": "A", "texto": "40" },
+          { "id": "B", "texto": "45" },
+          { "id": "C", "texto": "50" },
+          { "id": "D", "texto": "55" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 93,
+        "enunciado": "Calcula: 5/8 - 1/4",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "3/8" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "1/8" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 94,
+        "enunciado": "¿Qué es el 70% de 120?",
+        "opciones": [
+          { "id": "A", "texto": "80" },
+          { "id": "B", "texto": "84" },
+          { "id": "C", "texto": "88" },
+          { "id": "D", "texto": "90" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 95,
+        "enunciado": "Calcula: 2/3 × 3/5",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "3/5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 96,
+        "enunciado": "¿Qué es el 25% de 200?",
+        "opciones": [
+          { "id": "A", "texto": "45" },
+          { "id": "B", "texto": "50" },
+          { "id": "C", "texto": "55" },
+          { "id": "D", "texto": "60" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 97,
+        "enunciado": "Calcula: 7/10 ÷ 2",
+        "opciones": [
+          { "id": "A", "texto": "7/20" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "3/10" },
+          { "id": "D", "texto": "1/4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 98,
+        "enunciado": "¿Qué es el 40% de 90?",
+        "opciones": [
+          { "id": "A", "texto": "34" },
+          { "id": "B", "texto": "36" },
+          { "id": "C", "texto": "38" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 99,
+        "enunciado": "Calcula: 3/4 + 1/6",
+        "opciones": [
+          { "id": "A", "texto": "11/12" },
+          { "id": "B", "texto": "5/6" },
+          { "id": "C", "texto": "2/3" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 100,
+        "enunciado": "¿Qué es el 60% de 80?",
+        "opciones": [
+          { "id": "A", "texto": "44" },
+          { "id": "B", "texto": "46" },
+          { "id": "C", "texto": "48" },
+          { "id": "D", "texto": "50" }
+        ],
+        "respuesta_correcta": "C"
+      }
+    ],
+    "nivel_3": [
+      {
+        "id": 101,
+        "enunciado": "Un auto recorre 240 km en 3 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "70 km/h" },
+          { "id": "B", "texto": "80 km/h" },
+          { "id": "C", "texto": "90 km/h" },
+          { "id": "D", "texto": "75 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 102,
+        "enunciado": "Resuelve: √144",
+        "opciones": [
+          { "id": "A", "texto": "10" },
+          { "id": "B", "texto": "11" },
+          { "id": "C", "texto": "12" },
+          { "id": "D", "texto": "13" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 103,
+        "enunciado": "Resuelve: 5² + 3²",
+        "opciones": [
+          { "id": "A", "texto": "30" },
+          { "id": "B", "texto": "34" },
+          { "id": "C", "texto": "36" },
+          { "id": "D", "texto": "38" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 104,
+        "enunciado": "Un tren viaja 360 km en 4 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "80 km/h" },
+          { "id": "B", "texto": "85 km/h" },
+          { "id": "C", "texto": "90 km/h" },
+          { "id": "D", "texto": "95 km/h" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 105,
+        "enunciado": "Resuelve: √169",
+        "opciones": [
+          { "id": "A", "texto": "11" },
+          { "id": "B", "texto": "12" },
+          { "id": "C", "texto": "13" },
+          { "id": "D", "texto": "14" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 106,
+        "enunciado": "Resuelve: 6² - 4²",
+        "opciones": [
+          { "id": "A", "texto": "16" },
+          { "id": "B", "texto": "20" },
+          { "id": "C", "texto": "24" },
+          { "id": "D", "texto": "28" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 107,
+        "enunciado": "Un ciclista recorre 180 km en 3 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "50 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 108,
+        "enunciado": "Resuelve: √81",
+        "opciones": [
+          { "id": "A", "texto": "7" },
+          { "id": "B", "texto": "8" },
+          { "id": "C", "texto": "9" },
+          { "id": "D", "texto": "10" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 109,
+        "enunciado": "Resuelve: 8² - 5²",
+        "opciones": [
+          { "id": "A", "texto": "35" },
+          { "id": "B", "texto": "39" },
+          { "id": "C", "texto": "41" },
+          { "id": "D", "texto": "45" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 110,
+        "enunciado": "Un auto recorre 300 km en 5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "55 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 111,
+        "enunciado": "Resuelve: √100",
+        "opciones": [
+          { "id": "A", "texto": "8" },
+          { "id": "B", "texto": "9" },
+          { "id": "C", "texto": "10" },
+          { "id": "D", "texto": "11" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 112,
+        "enunciado": "Resuelve: 7² + 4²",
+        "opciones": [
+          { "id": "A", "texto": "61" },
+          { "id": "B", "texto": "63" },
+          { "id": "C", "texto": "65" },
+          { "id": "D", "texto": "67" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 113,
+        "enunciado": "Un tren viaja 480 km en 6 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "70 km/h" },
+          { "id": "B", "texto": "75 km/h" },
+          { "id": "C", "texto": "80 km/h" },
+          { "id": "D", "texto": "85 km/h" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 114,
+        "enunciado": "Resuelve: √64",
+        "opciones": [
+          { "id": "A", "texto": "6" },
+          { "id": "B", "texto": "7" },
+          { "id": "C", "texto": "8" },
+          { "id": "D", "texto": "9" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 115,
+        "enunciado": "Resuelve: 9² - 6²",
+        "opciones": [
+          { "id": "A", "texto": "39" },
+          { "id": "B", "texto": "45" },
+          { "id": "C", "texto": "48" },
+          { "id": "D", "texto": "51" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 116,
+        "enunciado": "Un ciclista recorre 120 km en 2 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "50 km/h" },
+          { "id": "B", "texto": "55 km/h" },
+          { "id": "C", "texto": "60 km/h" },
+          { "id": "D", "texto": "65 km/h" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 117,
+        "enunciado": "Resuelve: √49",
+        "opciones": [
+          { "id": "A", "texto": "5" },
+          { "id": "B", "texto": "6" },
+          { "id": "C", "texto": "7" },
+          { "id": "D", "texto": "8" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 118,
+        "enunciado": "Resuelve: 10² - 8²",
+        "opciones": [
+          { "id": "A", "texto": "28" },
+          { "id": "B", "texto": "32" },
+          { "id": "C", "texto": "36" },
+          { "id": "D", "texto": "40" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 119,
+        "enunciado": "Un auto recorre 420 km en 7 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "55 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 120,
+        "enunciado": "Resuelve: √121",
+        "opciones": [
+          { "id": "A", "texto": "9" },
+          { "id": "B", "texto": "10" },
+          { "id": "C", "texto": "11" },
+          { "id": "D", "texto": "12" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 121,
+        "enunciado": "Resuelve: 4² + 5²",
+        "opciones": [
+          { "id": "A", "texto": "39" },
+          { "id": "B", "texto": "41" },
+          { "id": "C", "texto": "43" },
+          { "id": "D", "texto": "45" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 122,
+        "enunciado": "Un tren viaja 540 km en 6 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "85 km/h" },
+          { "id": "B", "texto": "90 km/h" },
+          { "id": "C", "texto": "95 km/h" },
+          { "id": "D", "texto": "100 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 123,
+        "enunciado": "Resuelve: √36",
+        "opciones": [
+          { "id": "A", "texto": "4" },
+          { "id": "B", "texto": "5" },
+          { "id": "C", "texto": "6" },
+          { "id": "D", "texto": "7" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 124,
+        "enunciado": "Resuelve: 12² - 9²",
+        "opciones": [
+          { "id": "A", "texto": "63" },
+          { "id": "B", "texto": "65" },
+          { "id": "C", "texto": "67" },
+          { "id": "D", "texto": "69" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 125,
+        "enunciado": "Un ciclista recorre 150 km en 2.5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "55 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 126,
+        "enunciado": "Resuelve: √25",
+        "opciones": [
+          { "id": "A", "texto": "3" },
+          { "id": "B", "texto": "4" },
+          { "id": "C", "texto": "5" },
+          { "id": "D", "texto": "6" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 127,
+        "enunciado": "Resuelve: 11² - 7²",
+        "opciones": [
+          { "id": "A", "texto": "70" },
+          { "id": "B", "texto": "72" },
+          { "id": "C", "texto": "74" },
+          { "id": "D", "texto": "76" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 128,
+        "enunciado": "Un auto recorre 270 km en 3 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "80 km/h" },
+          { "id": "B", "texto": "85 km/h" },
+          { "id": "C", "texto": "90 km/h" },
+          { "id": "D", "texto": "95 km/h" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 129,
+        "enunciado": "Resuelve: √196",
+        "opciones": [
+          { "id": "A", "texto": "12" },
+          { "id": "B", "texto": "13" },
+          { "id": "C", "texto": "14" },
+          { "id": "D", "texto": "15" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 130,
+        "enunciado": "Resuelve: 3² + 6²",
+        "opciones": [
+          { "id": "A", "texto": "41" },
+          { "id": "B", "texto": "43" },
+          { "id": "C", "texto": "45" },
+          { "id": "D", "texto": "47" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 131,
+        "enunciado": "Un tren viaja 600 km en 8 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "70 km/h" },
+          { "id": "B", "texto": "75 km/h" },
+          { "id": "C", "texto": "80 km/h" },
+          { "id": "D", "texto": "85 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 132,
+        "enunciado": "Resuelve: √16",
+        "opciones": [
+          { "id": "A", "texto": "2" },
+          { "id": "B", "texto": "3" },
+          { "id": "C", "texto": "4" },
+          { "id": "D", "texto": "5" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 133,
+        "enunciado": "Resuelve: 15² - 12²",
+        "opciones": [
+          { "id": "A", "texto": "79" },
+          { "id": "B", "texto": "81" },
+          { "id": "C", "texto": "83" },
+          { "id": "D", "texto": "85" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 134,
+        "enunciado": "Un ciclista recorre 210 km en 3.5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "55 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 135,
+        "enunciado": "Resuelve: √225",
+        "opciones": [
+          { "id": "A", "texto": "13" },
+          { "id": "B", "texto": "14" },
+          { "id": "C", "texto": "15" },
+          { "id": "D", "texto": "16" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 136,
+        "enunciado": "Resuelve: 8² + 7²",
+        "opciones": [
+          { "id": "A", "texto": "111" },
+          { "id": "B", "texto": "113" },
+          { "id": "C", "texto": "115" },
+          { "id": "D", "texto": "117" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 137,
+        "enunciado": "Un auto recorre 360 km en 4.5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "75 km/h" },
+          { "id": "B", "texto": "80 km/h" },
+          { "id": "C", "texto": "85 km/h" },
+          { "id": "D", "texto": "90 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 138,
+        "enunciado": "Resuelve: √9",
+        "opciones": [
+          { "id": "A", "texto": "1" },
+          { "id": "B", "texto": "2" },
+          { "id": "C", "texto": "3" },
+          { "id": "D", "texto": "4" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 139,
+        "enunciado": "Resuelve: 10² - 6²",
+        "opciones": [
+          { "id": "A", "texto": "60" },
+          { "id": "B", "texto": "64" },
+          { "id": "C", "texto": "68" },
+          { "id": "D", "texto": "72" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 140,
+        "enunciado": "Un tren viaja 450 km en 5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "85 km/h" },
+          { "id": "B", "texto": "90 km/h" },
+          { "id": "C", "texto": "95 km/h" },
+          { "id": "D", "texto": "100 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 141,
+        "enunciado": "Resuelve: √400",
+        "opciones": [
+          { "id": "A", "texto": "18" },
+          { "id": "B", "texto": "19" },
+          { "id": "C", "texto": "20" },
+          { "id": "D", "texto": "21" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 142,
+        "enunciado": "Resuelve: 5² + 8²",
+        "opciones": [
+          { "id": "A", "texto": "85" },
+          { "id": "B", "texto": "89" },
+          { "id": "C", "texto": "91" },
+          { "id": "D", "texto": "93" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 143,
+        "enunciado": "Un ciclista recorre 240 km en 4 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "55 km/h" },
+          { "id": "B", "texto": "60 km/h" },
+          { "id": "C", "texto": "65 km/h" },
+          { "id": "D", "texto": "70 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 144,
+        "enunciado": "Resuelve: √256",
+        "opciones": [
+          { "id": "A", "texto": "14" },
+          { "id": "B", "texto": "15" },
+          { "id": "C", "texto": "16" },
+          { "id": "D", "texto": "17" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 145,
+        "enunciado": "Resuelve: 9² + 4²",
+        "opciones": [
+          { "id": "A", "texto": "95" },
+          { "id": "B", "texto": "97" },
+          { "id": "C", "texto": "99" },
+          { "id": "D", "texto": "101" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 146,
+        "enunciado": "Un auto recorre 330 km en 3 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "100 km/h" },
+          { "id": "B", "texto": "105 km/h" },
+          { "id": "C", "texto": "110 km/h" },
+          { "id": "D", "texto": "115 km/h" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 147,
+        "enunciado": "Resuelve: √289",
+        "opciones": [
+          { "id": "A", "texto": "15" },
+          { "id": "B", "texto": "16" },
+          { "id": "C", "texto": "17" },
+          { "id": "D", "texto": "18" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 148,
+        "enunciado": "Resuelve: 13² - 10²",
+        "opciones": [
+          { "id": "A", "texto": "67" },
+          { "id": "B", "texto": "69" },
+          { "id": "C", "texto": "71" },
+          { "id": "D", "texto": "73" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 149,
+        "enunciado": "Un auto recorre 400 km en 5 horas. ¿Cuál es su velocidad promedio?",
+        "opciones": [
+          { "id": "A", "texto": "75 km/h" },
+          { "id": "B", "texto": "80 km/h" },
+          { "id": "C", "texto": "85 km/h" },
+          { "id": "D", "texto": "90 km/h" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 150,
+        "enunciado": "Resuelve: √324",
+        "opciones": [
+          { "id": "A", "texto": "16" },
+          { "id": "B", "texto": "17" },
+          { "id": "C", "texto": "18" },
+          { "id": "D", "texto": "19" }
+        ],
+        "respuesta_correcta": "C"
+      }
+    ],
+    "nivel_4": [
+      {
+        "id": 151,
+        "enunciado": "Factoriza: x² + 5x + 6",
+        "opciones": [
+          { "id": "A", "texto": "(x + 2)(x + 3)" },
+          { "id": "B", "texto": "(x + 1)(x + 6)" },
+          { "id": "C", "texto": "(x + 2)(x + 4)" },
+          { "id": "D", "texto": "(x + 3)(x + 4)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 152,
+        "enunciado": "Expande: (2x + 3)(x - 4)",
+        "opciones": [
+          { "id": "A", "texto": "2x² - 5x - 12" },
+          { "id": "B", "texto": "2x² - 8x - 12" },
+          { "id": "C", "texto": "2x² - 5x - 10" },
+          { "id": "D", "texto": "2x² - 8x - 10" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 153,
+        "enunciado": "Factoriza: x² - 7x + 12",
+        "opciones": [
+          { "id": "A", "texto": "(x - 2)(x - 6)" },
+          { "id": "B", "texto": "(x - 3)(x - 4)" },
+          { "id": "C", "texto": "(x - 1)(x - 12)" },
+          { "id": "D", "texto": "(x - 3)(x - 5)" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 154,
+        "enunciado": "Expande: (x + 5)(x + 2)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 7x + 10" },
+          { "id": "B", "texto": "x² + 7x + 12" },
+          { "id": "C", "texto": "x² + 10x + 10" },
+          { "id": "D", "texto": "x² + 10x + 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 155,
+        "enunciado": "Factoriza: x² + 8x + 15",
+        "opciones": [
+          { "id": "A", "texto": "(x + 3)(x + 5)" },
+          { "id": "B", "texto": "(x + 2)(x + 6)" },
+          { "id": "C", "texto": "(x + 4)(x + 4)" },
+          { "id": "D", "texto": "(x + 1)(x + 15)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 156,
+        "enunciado": "Expande: (3x - 2)(x + 4)",
+        "opciones": [
+          { "id": "A", "texto": "3x² + 10x - 8" },
+          { "id": "B", "texto": "3x² + 12x - 8" },
+          { "id": "C", "texto": "3x² + 10x - 6" },
+          { "id": "D", "texto": "3x² + 12x - 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 157,
+        "enunciado": "Factoriza: x² - 9x + 20",
+        "opciones": [
+          { "id": "A", "texto": "(x - 4)(x - 5)" },
+          { "id": "B", "texto": "(x - 2)(x - 10)" },
+          { "id": "C", "texto": "(x - 3)(x - 7)" },
+          { "id": "D", "texto": "(x - 4)(x - 6)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 158,
+        "enunciado": "Expande: (x - 3)(x - 5)",
+        "opciones": [
+          { "id": "A", "texto": "x² - 8x + 15" },
+          { "id": "B", "texto": "x² - 8x + 12" },
+          { "id": "C", "texto": "x² - 7x + 15" },
+          { "id": "D", "texto": "x² - 7x + 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 159,
+        "enunciado": "Factoriza: x² + 4x - 12",
+        "opciones": [
+          { "id": "A", "texto": "(x + 6)(x - 2)" },
+          { "id": "B", "texto": "(x + 4)(x - 3)" },
+          { "id": "C", "texto": "(x + 3)(x - 4)" },
+          { "id": "D", "texto": "(x + 2)(x - 6)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 160,
+        "enunciado": "Expande: (2x + 1)(x - 3)",
+        "opciones": [
+          { "id": "A", "texto": "2x² - 5x - 3" },
+          { "id": "B", "texto": "2x² - 6x - 3" },
+          { "id": "C", "texto": "2x² - 5x - 2" },
+          { "id": "D", "texto": "2x² - 6x - 2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 161,
+        "enunciado": "Factoriza: x² - 5x - 14",
+        "opciones": [
+          { "id": "A", "texto": "(x - 7)(x + 2)" },
+          { "id": "B", "texto": "(x - 2)(x + 7)" },
+          { "id": "C", "texto": "(x - 4)(x + 3)" },
+          { "id": "D", "texto": "(x - 3)(x + 4)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 162,
+        "enunciado": "Expande: (x + 4)(x - 2)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 2x - 8" },
+          { "id": "B", "texto": "x² + 2x - 6" },
+          { "id": "C", "texto": "x² + 4x - 8" },
+          { "id": "D", "texto": "x² + 4x - 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 163,
+        "enunciado": "Factoriza: x² + 7x + 10",
+        "opciones": [
+          { "id": "A", "texto": "(x + 2)(x + 5)" },
+          { "id": "B", "texto": "(x + 1)(x + 10)" },
+          { "id": "C", "texto": "(x + 3)(x + 4)" },
+          { "id": "D", "texto": "(x + 2)(x + 6)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 164,
+        "enunciado": "Expande: (3x - 4)(x + 2)",
+        "opciones": [
+          { "id": "A", "texto": "3x² + 2x - 8" },
+          { "id": "B", "texto": "3x² + 4x - 8" },
+          { "id": "C", "texto": "3x² + 2x - 6" },
+          { "id": "D", "texto": "3x² + 4x - 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 165,
+        "enunciado": "Factoriza: x² - 8x + 15",
+        "opciones": [
+          { "id": "A", "texto": "(x - 3)(x - 5)" },
+          { "id": "B", "texto": "(x - 2)(x - 6)" },
+          { "id": "C", "texto": "(x - 4)(x - 4)" },
+          { "id": "D", "texto": "(x - 1)(x - 15)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 166,
+        "enunciado": "Expande: (x - 6)(x + 3)",
+        "opciones": [
+          { "id": "A", "texto": "x² - 3x - 18" },
+          { "id": "B", "texto": "x² - 3x - 15" },
+          { "id": "C", "texto": "x² - 2x - 18" },
+          { "id": "D", "texto": "x² - 2x - 15" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 167,
+        "enunciado": "Factoriza: x² + 6x - 16",
+        "opciones": [
+          { "id": "A", "texto": "(x + 8)(x - 2)" },
+          { "id": "B", "texto": "(x + 4)(x - 4)" },
+          { "id": "C", "texto": "(x + 6)(x - 3)" },
+          { "id": "D", "texto": "(x + 2)(x - 8)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 168,
+        "enunciado": "Expande: (2x + 5)(x - 1)",
+        "opciones": [
+          { "id": "A", "texto": "2x² + 3x - 5" },
+          { "id": "B", "texto": "2x² + 5x - 5" },
+          { "id": "C", "texto": "2x² + 3x - 3" },
+          { "id": "D", "texto": "2x² + 5x - 3" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 169,
+        "enunciado": "Factoriza: x² - 4x - 21",
+        "opciones": [
+          { "id": "A", "texto": "(x - 7)(x + 3)" },
+          { "id": "B", "texto": "(x - 3)(x + 7)" },
+          { "id": "C", "texto": "(x - 4)(x + 5)" },
+          { "id": "D", "texto": "(x - 5)(x + 4)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 170,
+        "enunciado": "Expande: (x + 7)(x - 2)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 5x - 14" },
+          { "id": "B", "texto": "x² + 5x - 12" },
+          { "id": "C", "texto": "x² + 7x - 14" },
+          { "id": "D", "texto": "x² + 7x - 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 171,
+        "enunciado": "Factoriza: x² + 9x + 18",
+        "opciones": [
+          { "id": "A", "texto": "(x + 3)(x + 6)" },
+          { "id": "B", "texto": "(x + 2)(x + 9)" },
+          { "id": "C", "texto": "(x + 4)(x + 5)" },
+          { "id": "D", "texto": "(x + 1)(x + 18)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 172,
+        "enunciado": "Expande: (3x - 1)(x + 3)",
+        "opciones": [
+          { "id": "A", "texto": "3x² + 8x - 3" },
+          { "id": "B", "texto": "3x² + 9x - 3" },
+          { "id": "C", "texto": "3x² + 8x - 2" },
+          { "id": "D", "texto": "3x² + 9x - 2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 173,
+        "enunciado": "Factoriza: x² - 6x - 16",
+        "opciones": [
+          { "id": "A", "texto": "(x - 8)(x + 2)" },
+          { "id": "B", "texto": "(x - 4)(x + 4)" },
+          { "id": "C", "texto": "(x - 2)(x + 8)" },
+          { "id": "D", "texto": "(x - 6)(x + 3)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 174,
+        "enunciado": "Expande: (x - 4)(x + 5)",
+        "opciones": [
+          { "id": "A", "texto": "x² + x - 20" },
+          { "id": "B", "texto": "x² + x - 18" },
+          { "id": "C", "texto": "x² + 2x - 20" },
+          { "id": "D", "texto": "x² + 2x - 18" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 175,
+        "enunciado": "Factoriza: x² + 3x - 10",
+        "opciones": [
+          { "id": "A", "texto": "(x + 5)(x - 2)" },
+          { "id": "B", "texto": "(x + 2)(x - 5)" },
+          { "id": "C", "texto": "(x + 3)(x - 3)" },
+          { "id": "D", "texto": "(x + 4)(x - 2)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 176,
+        "enunciado": "Expande: (2x - 3)(x + 2)",
+        "opciones": [
+          { "id": "A", "texto": "2x² + x - 6" },
+          { "id": "B", "texto": "2x² + x - 5" },
+          { "id": "C", "texto": "2x² + 2x - 6" },
+          { "id": "D", "texto": "2x² + 2x - 5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 177,
+        "enunciado": "Factoriza: x² - 10x + 21",
+        "opciones": [
+          { "id": "A", "texto": "(x - 3)(x - 7)" },
+          { "id": "B", "texto": "(x - 2)(x - 10)" },
+          { "id": "C", "texto": "(x - 4)(x - 6)" },
+          { "id": "D", "texto": "(x - 1)(x - 21)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 178,
+        "enunciado": "Expande: (x + 6)(x - 1)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 5x - 6" },
+          { "id": "B", "texto": "x² + 5x - 5" },
+          { "id": "C", "texto": "x² + 6x - 6" },
+          { "id": "D", "texto": "x² + 6x - 5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 179,
+        "enunciado": "Factoriza: x² + 2x - 15",
+        "opciones": [
+          { "id": "A", "texto": "(x + 5)(x - 3)" },
+          { "id": "B", "texto": "(x + 3)(x - 5)" },
+          { "id": "C", "texto": "(x + 2)(x - 7)" },
+          { "id": "D", "texto": "(x + 1)(x - 15)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 180,
+        "enunciado": "Expande: (3x + 2)(x - 4)",
+        "opciones": [
+          { "id": "A", "texto": "3x² - 10x - 8" },
+          { "id": "B", "texto": "3x² - 12x - 8" },
+          { "id": "C", "texto": "3x² - 10x - 6" },
+          { "id": "D", "texto": "3x² - 12x - 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 181,
+        "enunciado": "Factoriza: x² - 12x + 32",
+        "opciones": [
+          { "id": "A", "texto": "(x - 4)(x - 8)" },
+          { "id": "B", "texto": "(x - 2)(x - 16)" },
+          { "id": "C", "texto": "(x - 3)(x - 10)" },
+          { "id": "D", "texto": "(x - 5)(x - 7)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 182,
+        "enunciado": "Expande: (x - 5)(x + 4)",
+        "opciones": [
+          { "id": "A", "texto": "x² - x - 20" },
+          { "id": "B", "texto": "x² - x - 18" },
+          { "id": "C", "texto": "x² - 2x - 20" },
+          { "id": "D", "texto": "x² - 2x - 18" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 183,
+        "enunciado": "Factoriza: x² + 10x + 24",
+        "opciones": [
+          { "id": "A", "texto": "(x + 4)(x + 6)" },
+          { "id": "B", "texto": "(x + 3)(x + 8)" },
+          { "id": "C", "texto": "(x + 2)(x + 12)" },
+          { "id": "D", "texto": "(x + 5)(x + 5)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 184,
+        "enunciado": "Expande: (2x - 5)(x + 3)",
+        "opciones": [
+          { "id": "A", "texto": "2x² + x - 15" },
+          { "id": "B", "texto": "2x² + x - 12" },
+          { "id": "C", "texto": "2x² + 2x - 15" },
+          { "id": "D", "texto": "2x² + 2x - 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 185,
+        "enunciado": "Factoriza: x² - 3x - 18",
+        "opciones": [
+          { "id": "A", "texto": "(x - 6)(x + 3)" },
+          { "id": "B", "texto": "(x - 3)(x + 6)" },
+          { "id": "C", "texto": "(x - 2)(x + 9)" },
+          { "id": "D", "texto": "(x - 4)(x + 4)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 186,
+        "enunciado": "Expande: (x + 8)(x - 3)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 5x - 24" },
+          { "id": "B", "texto": "x² + 5x - 22" },
+          { "id": "C", "texto": "x² + 8x - 24" },
+          { "id": "D", "texto": "x² + 8x - 22" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 187,
+        "enunciado": "Factoriza: x² + 11x + 30",
+        "opciones": [
+          { "id": "A", "texto": "(x + 5)(x + 6)" },
+          { "id": "B", "texto": "(x + 3)(x + 10)" },
+          { "id": "C", "texto": "(x + 2)(x + 15)" },
+          { "id": "D", "texto": "(x + 4)(x + 7)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 188,
+        "enunciado": "Expande: (3x + 4)(x - 2)",
+        "opciones": [
+          { "id": "A", "texto": "3x² - 2x - 8" },
+          { "id": "B", "texto": "3x² - 4x - 8" },
+          { "id": "C", "texto": "3x² - 2x - 6" },
+          { "id": "D", "texto": "3x² - 4x - 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 189,
+        "enunciado": "Factoriza: x² - 11x + 24",
+        "opciones": [
+          { "id": "A", "texto": "(x - 3)(x - 8)" },
+          { "id": "B", "texto": "(x - 2)(x - 12)" },
+          { "id": "C", "texto": "(x - 4)(x - 6)" },
+          { "id": "D", "texto": "(x - 1)(x - 24)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 190,
+        "enunciado": "Expande: (x - 7)(x + 2)",
+        "opciones": [
+          { "id": "A", "texto": "x² - 5x - 14" },
+          { "id": "B", "texto": "x² - 5x - 12" },
+          { "id": "C", "texto": "x² - 7x - 14" },
+          { "id": "D", "texto": "x² - 7x - 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 191,
+        "enunciado": "Factoriza: x² + 4x - 21",
+        "opciones": [
+          { "id": "A", "texto": "(x + 7)(x - 3)" },
+          { "id": "B", "texto": "(x + 3)(x - 7)" },
+          { "id": "C", "texto": "(x + 4)(x - 5)" },
+          { "id": "D", "texto": "(x + 2)(x - 10)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 192,
+        "enunciado": "Expande: (2x + 3)(x - 5)",
+        "opciones": [
+          { "id": "A", "texto": "2x² - 7x - 15" },
+          { "id": "B", "texto": "2x² - 7x - 12" },
+          { "id": "C", "texto": "2x² - 8x - 15" },
+          { "id": "D", "texto": "2x² - 8x - 12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 193,
+        "enunciado": "Factoriza: x² - 2x - 24",
+        "opciones": [
+          { "id": "A", "texto": "(x - 6)(x + 4)" },
+          { "id": "B", "texto": "(x - 4)(x + 6)" },
+          { "id": "C", "texto": "(x - 3)(x + 8)" },
+          { "id": "D", "texto": "(x - 2)(x + 12)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 194,
+        "enunciado": "Expande: (x + 9)(x - 4)",
+        "opciones": [
+          { "id": "A", "texto": "x² + 5x - 36" },
+          { "id": "B", "texto": "x² + 5x - 34" },
+          { "id": "C", "texto": "x² + 9x - 36" },
+          { "id": "D", "texto": "x² + 9x - 34" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 195,
+        "enunciado": "Factoriza: x² + 12x + 35",
+        "opciones": [
+          { "id": "A", "texto": "(x + 5)(x + 7)" },
+          { "id": "B", "texto": "(x + 4)(x + 8)" },
+          { "id": "C", "texto": "(x + 3)(x + 12)" },
+          { "id": "D", "texto": "(x + 6)(x + 6)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 196,
+        "enunciado": "Expande: (3x - 2)(x + 5)",
+        "opciones": [
+          { "id": "A", "texto": "3x² + 13x - 10" },
+          { "id": "B", "texto": "3x² + 15x - 10" },
+          { "id": "C", "texto": "3x² + 13x - 8" },
+          { "id": "D", "texto": "3x² + 15x - 8" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 197,
+        "enunciado": "Factoriza: x² - 13x + 36",
+        "opciones": [
+          { "id": "A", "texto": "(x - 4)(x - 9)" },
+          { "id": "B", "texto": "(x - 3)(x - 12)" },
+          { "id": "C", "texto": "(x - 2)(x - 18)" },
+          { "id": "D", "texto": "(x - 5)(x - 7)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 198,
+        "enunciado": "Expande: (x - 8)(x + 3)",
+        "opciones": [
+          { "id": "A", "texto": "x² - 5x - 24" },
+          { "id": "B", "texto": "x² - 5x - 22" },
+          { "id": "C", "texto": "x² - 8x - 24" },
+          { "id": "D", "texto": "x² - 8x - 22" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 199,
+        "enunciado": "Factoriza: x² + 5x - 14",
+        "opciones": [
+          { "id": "A", "texto": "(x + 7)(x - 2)" },
+          { "id": "B", "texto": "(x + 2)(x - 7)" },
+          { "id": "C", "texto": "(x + 4)(x - 3)" },
+          { "id": "D", "texto": "(x + 3)(x - 4)" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 200,
+        "enunciado": "Expande: (2x + 4)(x - 3)",
+        "opciones": [
+          { "id": "A", "texto": "2x² - 2x - 12" },
+          { "id": "B", "texto": "2x² - 4x - 12" },
+          { "id": "C", "texto": "2x² - 2x - 10" },
+          { "id": "D", "texto": "2x² - 4x - 10" }
+        ],
+        "respuesta_correcta": "A"
+      }
+    ],
+    "nivel_5": [
+      {
+        "id": 201,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 5x + 6 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 2, x = 3" },
+          { "id": "B", "texto": "x = 1, x = 6" },
+          { "id": "C", "texto": "x = 2, x = 4" },
+          { "id": "D", "texto": "x = 3, x = 4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 202,
+        "enunciado": "Una bolsa contiene 3 bolas rojas y 2 bolas azules. ¿Cuál es la probabilidad de sacar una bola roja?",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "3/5" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "2/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 203,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 7x + 12 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -3, x = -4" },
+          { "id": "B", "texto": "x = -2, x = -6" },
+          { "id": "C", "texto": "x = -1, x = -12" },
+          { "id": "D", "texto": "x = -3, x = -5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 204,
+        "enunciado": "Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número par?",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/3" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 205,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 8x + 15 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 3, x = 5" },
+          { "id": "B", "texto": "x = 2, x = 6" },
+          { "id": "C", "texto": "x = 4, x = 4" },
+          { "id": "D", "texto": "x = 1, x = 15" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 206,
+        "enunciado": "Una baraja tiene 52 cartas, de las cuales 13 son de corazones. ¿Cuál es la probabilidad de sacar una carta de corazones?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "1/13" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 207,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 4x - 12 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -6, x = 2" },
+          { "id": "B", "texto": "x = -4, x = 3" },
+          { "id": "C", "texto": "x = -3, x = 4" },
+          { "id": "D", "texto": "x = -2, x = 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 208,
+        "enunciado": "Se elige una letra al azar de la palabra 'MATEMATICAS'. ¿Cuál es la probabilidad de que sea una vocal?",
+        "opciones": [
+          { "id": "A", "texto": "4/11" },
+          { "id": "B", "texto": "5/11" },
+          { "id": "C", "texto": "6/11" },
+          { "id": "D", "texto": "3/11" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 209,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 9x + 20 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 4, x = 5" },
+          { "id": "B", "texto": "x = 2, x = 10" },
+          { "id": "C", "texto": "x = 3, x = 7" },
+          { "id": "D", "texto": "x = 4, x = 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 210,
+        "enunciado": "Una bolsa tiene 4 bolas verdes y 6 bolas blancas. ¿Cuál es la probabilidad de sacar una bola verde?",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "3/5" },
+          { "id": "C", "texto": "4/10" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 211,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 6x + 8 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -2, x = -4" },
+          { "id": "B", "texto": "x = -1, x = -8" },
+          { "id": "C", "texto": "x = -3, x = -5" },
+          { "id": "D", "texto": "x = -2, x = -6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 212,
+        "enunciado": "Se lanza una moneda dos veces. ¿Cuál es la probabilidad de obtener dos caras?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 213,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 7x + 10 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 2, x = 5" },
+          { "id": "B", "texto": "x = 1, x = 10" },
+          { "id": "C", "texto": "x = 3, x = 4" },
+          { "id": "D", "texto": "x = 2, x = 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 214,
+        "enunciado": "Una urna contiene 5 bolas rojas y 3 bolas negras. ¿Cuál es la probabilidad de sacar una bola negra?",
+        "opciones": [
+          { "id": "A", "texto": "3/8" },
+          { "id": "B", "texto": "5/8" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "2/5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 215,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 3x - 10 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -5, x = 2" },
+          { "id": "B", "texto": "x = -2, x = 5" },
+          { "id": "C", "texto": "x = -3, x = 3" },
+          { "id": "D", "texto": "x = -4, x = 2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 216,
+        "enunciado": "Se elige un número al azar del 1 al 10. ¿Cuál es la probabilidad de que sea múltiplo de 3?",
+        "opciones": [
+          { "id": "A", "texto": "3/10" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "2/5" },
+          { "id": "D", "texto": "1/5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 217,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 4x - 12 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -2, x = 6" },
+          { "id": "B", "texto": "x = -3, x = 4" },
+          { "id": "C", "texto": "x = -4, x = 3" },
+          { "id": "D", "texto": "x = -6, x = 2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 218,
+        "enunciado": "Una bolsa contiene 2 bolas blancas, 3 bolas rojas y 5 bolas verdes. ¿Cuál es la probabilidad de sacar una bola blanca?",
+        "opciones": [
+          { "id": "A", "texto": "1/5" },
+          { "id": "B", "texto": "2/10" },
+          { "id": "C", "texto": "3/10" },
+          { "id": "D", "texto": "1/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 219,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 8x + 15 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -3, x = -5" },
+          { "id": "B", "texto": "x = -2, x = -6" },
+          { "id": "C", "texto": "x = -4, x = -4" },
+          { "id": "D", "texto": "x = -1, x = -15" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 220,
+        "enunciado": "Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número mayor a 4?",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "2/3" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 221,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 6x + 8 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 2, x = 4" },
+          { "id": "B", "texto": "x = 1, x = 8" },
+          { "id": "C", "texto": "x = 3, x = 5" },
+          { "id": "D", "texto": "x = 2, x = 6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 222,
+        "enunciado": "Una baraja tiene 52 cartas, de las cuales 26 son negras. ¿Cuál es la probabilidad de sacar una carta negra?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "1/13" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 223,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 5x - 14 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -7, x = 2" },
+          { "id": "B", "texto": "x = -2, x = 7" },
+          { "id": "C", "texto": "x = -4, x = 3" },
+          { "id": "D", "texto": "x = -3, x = 4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 224,
+        "enunciado": "Se elige una letra al azar de la palabra 'PROBABILIDAD'. ¿Cuál es la probabilidad de que sea una vocal?",
+        "opciones": [
+          { "id": "A", "texto": "5/12" },
+          { "id": "B", "texto": "4/12" },
+          { "id": "C", "texto": "6/12" },
+          { "id": "D", "texto": "3/12" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 225,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 10x + 21 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 3, x = 7" },
+          { "id": "B", "texto": "x = 2, x = 10" },
+          { "id": "C", "texto": "x = 4, x = 6" },
+          { "id": "D", "texto": "x = 1, x = 21" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 226,
+        "enunciado": "Una bolsa contiene 6 bolas rojas y 4 bolas azules. ¿Cuál es la probabilidad de sacar una bola azul?",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "3/5" },
+          { "id": "C", "texto": "4/10" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 227,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 2x - 15 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -5, x = 3" },
+          { "id": "B", "texto": "x = -3, x = 5" },
+          { "id": "C", "texto": "x = -2, x = 7" },
+          { "id": "D", "texto": "x = -1, x = 15" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 228,
+        "enunciado": "Se lanza una moneda tres veces. ¿Cuál es la probabilidad de obtener al menos una cara?",
+        "opciones": [
+          { "id": "A", "texto": "1/8" },
+          { "id": "B", "texto": "3/8" },
+          { "id": "C", "texto": "7/8" },
+          { "id": "D", "texto": "5/8" }
+        ],
+        "respuesta_correcta": "C"
+      },
+      {
+        "id": 229,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 12x + 32 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 4, x = 8" },
+          { "id": "B", "texto": "x = 2, x = 16" },
+          { "id": "C", "texto": "x = 3, x = 10" },
+          { "id": "D", "texto": "x = 5, x = 7" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 230,
+        "enunciado": "Una urna contiene 7 bolas blancas y 3 bolas negras. ¿Cuál es la probabilidad de sacar una bola blanca?",
+        "opciones": [
+          { "id": "A", "texto": "3/10" },
+          { "id": "B", "texto": "7/10" },
+          { "id": "C", "texto": "2/5" },
+          { "id": "D", "texto": "1/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 231,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 10x + 24 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -4, x = -6" },
+          { "id": "B", "texto": "x = -3, x = -8" },
+          { "id": "C", "texto": "x = -2, x = -12" },
+          { "id": "D", "texto": "x = -5, x = -5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 232,
+        "enunciado": "Se elige un número al azar del 1 al 12. ¿Cuál es la probabilidad de que sea divisible por 4?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 233,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 3x - 18 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -3, x = 6" },
+          { "id": "B", "texto": "x = -2, x = 9" },
+          { "id": "C", "texto": "x = -4, x = 4" },
+          { "id": "D", "texto": "x = -6, x = 3" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 234,
+        "enunciado": "Una baraja tiene 52 cartas, de las cuales 4 son ases. ¿Cuál es la probabilidad de sacar un as?",
+        "opciones": [
+          { "id": "A", "texto": "1/13" },
+          { "id": "B", "texto": "1/4" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "1/52" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 235,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 11x + 30 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -5, x = -6" },
+          { "id": "B", "texto": "x = -3, x = -10" },
+          { "id": "C", "texto": "x = -2, x = -15" },
+          { "id": "D", "texto": "x = -4, x = -7" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 236,
+        "enunciado": "Se lanza un dado de 6 caras dos veces. ¿Cuál es la probabilidad de obtener un total de 7?",
+        "opciones": [
+          { "id": "A", "texto": "1/6" },
+          { "id": "B", "texto": "1/12" },
+          { "id": "C", "texto": "1/9" },
+          { "id": "D", "texto": "1/36" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 237,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 11x + 24 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 3, x = 8" },
+          { "id": "B", "texto": "x = 2, x = 12" },
+          { "id": "C", "texto": "x = 4, x = 6" },
+          { "id": "D", "texto": "x = 1, x = 24" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 238,
+        "enunciado": "Una bolsa contiene 8 bolas, de las cuales 3 son verdes. ¿Cuál es la probabilidad de sacar una bola que no sea verde?",
+        "opciones": [
+          { "id": "A", "texto": "3/8" },
+          { "id": "B", "texto": "5/8" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "2/3" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 239,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 4x - 21 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -7, x = 3" },
+          { "id": "B", "texto": "x = -3, x = 7" },
+          { "id": "C", "texto": "x = -4, x = 5" },
+          { "id": "D", "texto": "x = -2, x = 10" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 240,
+        "enunciado": "Se elige un número al azar del 1 al 15. ¿Cuál es la probabilidad de que sea primo?",
+        "opciones": [
+          { "id": "A", "texto": "2/5" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "4/15" },
+          { "id": "D", "texto": "1/5" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 241,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 2x - 24 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -4, x = 6" },
+          { "id": "B", "texto": "x = -3, x = 8" },
+          { "id": "C", "texto": "x = -2, x = 12" },
+          { "id": "D", "texto": "x = -6, x = 4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 242,
+        "enunciado": "Una urna contiene 4 bolas rojas, 3 bolas azules y 2 bolas verdes. ¿Cuál es la probabilidad de sacar una bola azul?",
+        "opciones": [
+          { "id": "A", "texto": "1/3" },
+          { "id": "B", "texto": "2/9" },
+          { "id": "C", "texto": "1/4" },
+          { "id": "D", "texto": "1/2" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 243,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 12x + 35 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -5, x = -7" },
+          { "id": "B", "texto": "x = -4, x = -8" },
+          { "id": "C", "texto": "x = -3, x = -12" },
+          { "id": "D", "texto": "x = -6, x = -6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 244,
+        "enunciado": "Se lanza una moneda y un dado de 6 caras. ¿Cuál es la probabilidad de obtener cara y un número par?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/3" },
+          { "id": "C", "texto": "1/2" },
+          { "id": "D", "texto": "1/6" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 245,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 13x + 36 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = 4, x = 9" },
+          { "id": "B", "texto": "x = 3, x = 12" },
+          { "id": "C", "texto": "x = 2, x = 18" },
+          { "id": "D", "texto": "x = 5, x = 7" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 246,
+        "enunciado": "Una bolsa contiene 5 bolas verdes y 5 bolas blancas. ¿Cuál es la probabilidad de sacar una bola verde?",
+        "opciones": [
+          { "id": "A", "texto": "1/4" },
+          { "id": "B", "texto": "1/2" },
+          { "id": "C", "texto": "3/5" },
+          { "id": "D", "texto": "2/5" }
+        ],
+        "respuesta_correcta": "B"
+      },
+      {
+        "id": 247,
+        "enunciado": "Resuelve la ecuación cuadrática: x² + 5x - 36 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -9, x = 4" },
+          { "id": "B", "texto": "x = -4, x = 9" },
+          { "id": "C", "texto": "x = -3, x = 12" },
+          { "id": "D", "texto": "x = -2, x = 18" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 248,
+        "enunciado": "Se elige un número al azar del 1 al 20. ¿Cuál es la probabilidad de que sea divisible por 5?",
+        "opciones": [
+          { "id": "A", "texto": "1/5" },
+          { "id": "B", "texto": "1/4" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "1/10" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 249,
+        "enunciado": "Resuelve la ecuación cuadrática: x² - 5x - 14 = 0",
+        "opciones": [
+          { "id": "A", "texto": "x = -2, x = 7" },
+          { "id": "B", "texto": "x = -7, x = 2" },
+          { "id": "C", "texto": "x = -4, x = 3" },
+          { "id": "D", "texto": "x = -3, x = 4" }
+        ],
+        "respuesta_correcta": "A"
+      },
+      {
+        "id": 250,
+        "enunciado": "Una baraja tiene 52 cartas, de las cuales 12 son figuras (J, Q, K). ¿Cuál es la probabilidad de sacar una figura?",
+        "opciones": [
+          { "id": "A", "texto": "3/13" },
+          { "id": "B", "texto": "1/4" },
+          { "id": "C", "texto": "1/3" },
+          { "id": "D", "texto": "1/13" }
+        ],
+        "respuesta_correcta": "A"
+      }
+    ]
+  }
+}

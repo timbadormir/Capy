@@ -1,0 +1,190 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Tilemaps; // Para Tilemap y TilemapCollider2D
+using TMPro;
+
+[System.Serializable]
+public class Opcion
+{
+    public string id;
+    public string texto;
+}
+
+[System.Serializable]
+public class Pregunta
+{
+    public int id;
+    public string enunciado;
+    public Opcion[] opciones;
+    public string respuesta_correcta;
+}
+
+[System.Serializable]
+public class Materia
+{
+    public List<Pregunta> nivel_1;
+    public List<Pregunta> nivel_2;
+    public List<Pregunta> nivel_3;
+    public List<Pregunta> nivel_4;
+}
+
+[System.Serializable]
+public class Root
+{
+    public Materia matematicas;
+}
+
+public class SistemaPreguntas : MonoBehaviour
+{
+    [Header("UI - arrastra aquí")]
+    public TextMeshProUGUI textoPregunta;          // el TMP del enunciado
+    public Button[] botonesOpciones;               // 4 botones (A,B,C,D)
+    public TextMeshProUGUI[] textosOpciones;       // TMPs dentro de cada botón (child)
+
+    [Header("JSON")]
+    public string jsonResourceName = "Preguntas";  // nombre del TextAsset en Resources (sin .json)
+    public string nivelActual = "nivel_1";         // nivel que quieres usar
+
+    [Header("Gameplay")]
+    public GameObject tilemapConPilar;             // Tilemap duplicado con el pilar
+    public int respuestasNecesarias = 5;           // Respuestas correctas necesarias para desbloquear
+    public float tiempoBajada = 2f;                // duración de la animación
+    public float distanciaBajada = 5f;             // distancia en Y que baja el pilar
+
+    private int respuestasCorrectas = 0;           // Contador de respuestas correctas
+    private bool desbloqueado = false;             // Estado de desbloqueo
+
+    private Root root;
+    private List<Pregunta> pool;
+    private Pregunta preguntaActual;
+
+    void Start()
+    {
+        if (!LoadJson()) return;
+        SetupButtonListeners();
+        MostrarPreguntaAleatoria();
+    }
+
+    bool LoadJson()
+    {
+        TextAsset ta = Resources.Load<TextAsset>(jsonResourceName);
+        if (ta == null)
+        {
+            Debug.LogError($"[SistemaPreguntas] No se encontró Resources/{jsonResourceName}.json. Colócalo en Assets/Resources/");
+            return false;
+        }
+
+        root = JsonUtility.FromJson<Root>(ta.text);
+        if (root == null || root.matematicas == null)
+        {
+            Debug.LogError("[SistemaPreguntas] JSON parse falló o estructura 'matematicas' no encontrada.");
+            return false;
+        }
+
+        // Elegir lista según nivelActual
+        switch (nivelActual)
+        {
+            case "nivel_1": pool = root.matematicas.nivel_1; break;
+            case "nivel_2": pool = root.matematicas.nivel_2; break;
+            case "nivel_3": pool = root.matematicas.nivel_3; break;
+            case "nivel_4": pool = root.matematicas.nivel_4; break;
+            default: pool = root.matematicas.nivel_1; break;
+        }
+
+        if (pool == null || pool.Count == 0)
+        {
+            Debug.LogError($"[SistemaPreguntas] No hay preguntas en {nivelActual} o la lista es nula.");
+            return false;
+        }
+        Debug.Log($"[SistemaPreguntas] Cargadas {pool.Count} preguntas de {nivelActual}.");
+        return true;
+    }
+
+    void SetupButtonListeners()
+    {
+        for (int i = 0; i < botonesOpciones.Length; i++)
+        {
+            int idx = i;
+            botonesOpciones[i].onClick.RemoveAllListeners();
+            botonesOpciones[i].onClick.AddListener(() => OnOpcionSeleccionada(idx));
+        }
+    }
+
+    void MostrarPreguntaAleatoria()
+    {
+        preguntaActual = pool[Random.Range(0, pool.Count)];
+        textoPregunta.text = preguntaActual.enunciado;
+
+        // Rellenar textos de opciones
+        for (int i = 0; i < textosOpciones.Length; i++)
+        {
+            if (i < preguntaActual.opciones.Length) textosOpciones[i].text = preguntaActual.opciones[i].texto;
+            else textosOpciones[i].text = "";
+        }
+    }
+
+    void OnOpcionSeleccionada(int indice)
+    {
+        if (preguntaActual == null) return;
+        if (indice >= preguntaActual.opciones.Length)
+        {
+            Debug.LogWarning("[SistemaPreguntas] Índice de opción fuera de rango.");
+            return;
+        }
+
+        string seleccionado = preguntaActual.opciones[indice].id; // "A"/"B"/...
+        bool correcto = seleccionado == preguntaActual.respuesta_correcta;
+        if (correcto)
+        {
+            Debug.Log("✅ Correcto!");
+            respuestasCorrectas++;
+
+            // Verificar si se alcanzó el número necesario de respuestas correctas
+            if (!desbloqueado && respuestasCorrectas >= respuestasNecesarias)
+            {
+                desbloqueado = true;
+                if (tilemapConPilar != null)
+                {
+                    StartCoroutine(BajarPilar());
+                }
+                else
+                {
+                    Debug.LogWarning("[SistemaPreguntas] tilemapConPilar no está asignado.");
+                }
+            }
+        }
+        else
+        {
+            Debug.Log("❌ Incorrecto.");
+        }
+
+        // Mostrar la siguiente pregunta
+        MostrarPreguntaAleatoria();
+    }
+
+    IEnumerator BajarPilar()
+    {
+        Vector3 inicio = tilemapConPilar.transform.position;
+        Vector3 destino = inicio + new Vector3(0, -distanciaBajada, 0);
+
+        float t = 0f;
+        while (t < tiempoBajada)
+        {
+            t += Time.deltaTime;
+            tilemapConPilar.transform.position = Vector3.Lerp(inicio, destino, t / tiempoBajada);
+            yield return null;
+        }
+
+        tilemapConPilar.transform.position = destino;
+
+        // Desactivar la colisión al terminar
+        TilemapCollider2D collider = tilemapConPilar.GetComponent<TilemapCollider2D>();
+        if (collider != null)
+        {
+            collider.enabled = false;
+            Debug.Log("🎉 ¡Pilar desbloqueado suavemente!");
+        }
+    }
+}
