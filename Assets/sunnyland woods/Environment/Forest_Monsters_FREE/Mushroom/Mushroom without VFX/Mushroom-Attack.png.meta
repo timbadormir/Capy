@@ -1,52 +1,37 @@
 fileFormatVersion: 2
-guid: db4cde891c8cfbb4e819894bf6b18c26
+guid: d2c3fbb1bb0a97f4290237886fd7efc3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8774181886731760886
-    second: todo _0
+      213: 5827293808285669160
+    second: Mushroom-Attack_0
   - first:
-      213: 7551015263306880376
-    second: todo _1
+      213: 395788944090898754
+    second: Mushroom-Attack_1
   - first:
-      213: 8910382127752857909
-    second: todo _2
+      213: -2431859481363569845
+    second: Mushroom-Attack_2
   - first:
-      213: -7067276399407398658
-    second: todo _3
+      213: 3975243271130314681
+    second: Mushroom-Attack_3
   - first:
-      213: -5065717822597988722
-    second: todo _4
+      213: -2976413451591195025
+    second: Mushroom-Attack_4
   - first:
-      213: 6704151427451911416
-    second: todo _5
+      213: -7849148733371855069
+    second: Mushroom-Attack_5
   - first:
-      213: 4450272537935267532
-    second: todo _6
+      213: 9200555057208211610
+    second: Mushroom-Attack_6
   - first:
-      213: 6100342344061948420
-    second: todo _7
+      213: 1760042231434011034
+    second: Mushroom-Attack_7
   - first:
-      213: 6040983197401720533
-    second: todo _8
+      213: -8702807064431453006
+    second: Mushroom-Attack_8
   - first:
-      213: 1113701972804600659
-    second: todo _9
-  - first:
-      213: 4092702822849875103
-    second: todo _10
-  - first:
-      213: 2754756920760496932
-    second: todo _11
-  - first:
-      213: -7693116257649476525
-    second: todo _12
-  - first:
-      213: 8939166976402582380
-    second: todo _13
-  - first:
-      213: -1862389220969471760
-    second: todo _14
+      213: -827034603758580982
+    second: Mushroom-Attack_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: todo _0
+      name: Mushroom-Attack_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 1019
-        width: 252
-        height: 202
+        x: 24
+        y: 0
+        width: 32
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0bcfa6cf08db3680800000000000000
-      internalID: -8774181886731760886
+      spriteID: 82753b428d4bed050800000000000000
+      internalID: 5827293808285669160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _1
+      name: Mushroom-Attack_1
       rect:
         serializedVersion: 2
-        x: 379
-        y: 1019
-        width: 172
-        height: 212
+        x: 115
+        y: 0
+        width: 31
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87595feff589ac860800000000000000
-      internalID: 7551015263306880376
+      spriteID: 241a09a92ff1e7500800000000000000
+      internalID: 395788944090898754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _2
+      name: Mushroom-Attack_2
       rect:
         serializedVersion: 2
-        x: 679
-        y: 1019
-        width: 192
-        height: 212
+        x: 199
+        y: 0
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 539c2b1065908ab70800000000000000
-      internalID: 8910382127752857909
+      spriteID: b43a8adafac404ed0800000000000000
+      internalID: -2431859481363569845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _3
+      name: Mushroom-Attack_3
       rect:
         serializedVersion: 2
-        x: 1039
-        y: 1009
-        width: 172
-        height: 192
+        x: 279
+        y: 0
+        width: 36
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef002db0f8dfbed90800000000000000
-      internalID: -7067276399407398658
+      spriteID: 9b7fb7f71b6ea2730800000000000000
+      internalID: 3975243271130314681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _4
+      name: Mushroom-Attack_4
       rect:
         serializedVersion: 2
-        x: 9
-        y: 679
-        width: 312
-        height: 272
+        x: 339
+        y: 1
+        width: 30
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8e7eabca74f2b9b0800000000000000
-      internalID: -5065717822597988722
+      spriteID: f6666394cb7a1b6d0800000000000000
+      internalID: -2976413451591195025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _5
+      name: Mushroom-Attack_5
       rect:
         serializedVersion: 2
-        x: 349
-        y: 759
-        width: 272
-        height: 132
+        x: 404
+        y: 0
+        width: 34
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fcf2b1043ee90d50800000000000000
-      internalID: 6704151427451911416
+      spriteID: 32fc92640d8321390800000000000000
+      internalID: -7849148733371855069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _6
+      name: Mushroom-Attack_6
       rect:
         serializedVersion: 2
-        x: 669
-        y: 659
-        width: 252
-        height: 242
+        x: 483
+        y: 0
+        width: 34
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc6ce417b4b82cd30800000000000000
-      internalID: 4450272537935267532
+      spriteID: a98b151f310feaf70800000000000000
+      internalID: 9200555057208211610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _7
+      name: Mushroom-Attack_7
       rect:
         serializedVersion: 2
-        x: 1039
-        y: 819
-        width: 202
-        height: 82
+        x: 562
+        y: 0
+        width: 34
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 402161a7a05c8a450800000000000000
-      internalID: 6100342344061948420
+      spriteID: a916f4a951dec6810800000000000000
+      internalID: 1760042231434011034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _8
+      name: Mushroom-Attack_8
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 709
-        width: 142
-        height: 52
+        x: 653
+        y: 2
+        width: 33
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,20 +318,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d6ab372632e5d350800000000000000
-      internalID: 6040983197401720533
+      spriteID: 2bc9dc7951b693780800000000000000
+      internalID: -8702807064431453006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: todo _9
+      name: Mushroom-Attack_9
       rect:
         serializedVersion: 2
-        x: 39
-        y: 379
-        width: 252
-        height: 222
+        x: 744
+        y: 0
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,118 +340,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3538baa2b0aa47f00800000000000000
-      internalID: 1113701972804600659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: todo _10
-      rect:
-        serializedVersion: 2
-        x: 429
-        y: 449
-        width: 102
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9c843788833cc830800000000000000
-      internalID: 4092702822849875103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: todo _11
-      rect:
-        serializedVersion: 2
-        x: 679
-        y: 319
-        width: 252
-        height: 302
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4237a78f2dcda3620800000000000000
-      internalID: 2754756920760496932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: todo _12
-      rect:
-        serializedVersion: 2
-        x: 1059
-        y: 429
-        width: 92
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35c3507068f8c3590800000000000000
-      internalID: -7693116257649476525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: todo _13
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 59
-        width: 252
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6be068d00d4e0c70800000000000000
-      internalID: 8939166976402582380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: todo _14
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 119
-        width: 52
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f02992fed67726e0800000000000000
-      internalID: -1862389220969471760
+      spriteID: a0b8302e868c584f0800000000000000
+      internalID: -827034603758580982
       vertices: []
       indices: 
       edges: []
@@ -485,21 +360,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      todo _0: -8774181886731760886
-      todo _1: 7551015263306880376
-      todo _10: 4092702822849875103
-      todo _11: 2754756920760496932
-      todo _12: -7693116257649476525
-      todo _13: 8939166976402582380
-      todo _14: -1862389220969471760
-      todo _2: 8910382127752857909
-      todo _3: -7067276399407398658
-      todo _4: -5065717822597988722
-      todo _5: 6704151427451911416
-      todo _6: 4450272537935267532
-      todo _7: 6100342344061948420
-      todo _8: 6040983197401720533
-      todo _9: 1113701972804600659
+      Mushroom-Attack_0: 5827293808285669160
+      Mushroom-Attack_1: 395788944090898754
+      Mushroom-Attack_2: -2431859481363569845
+      Mushroom-Attack_3: 3975243271130314681
+      Mushroom-Attack_4: -2976413451591195025
+      Mushroom-Attack_5: -7849148733371855069
+      Mushroom-Attack_6: 9200555057208211610
+      Mushroom-Attack_7: 1760042231434011034
+      Mushroom-Attack_8: -8702807064431453006
+      Mushroom-Attack_9: -827034603758580982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
