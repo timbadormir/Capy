@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.Tilemaps; // Para Tilemap y TilemapCollider2D
+using UnityEngine.Tilemaps;
 using TMPro;
 
 [System.Serializable]
@@ -39,22 +39,25 @@ public class Root
 public class SistemaPreguntas : MonoBehaviour
 {
     [Header("UI - arrastra aquí")]
-    public TextMeshProUGUI textoPregunta;          // el TMP del enunciado
-    public Button[] botonesOpciones;               // 4 botones (A,B,C,D)
-    public TextMeshProUGUI[] textosOpciones;       // TMPs dentro de cada botón (child)
+    public TextMeshProUGUI textoPregunta;
+    public Button[] botonesOpciones;
+    public TextMeshProUGUI[] textosOpciones;
 
     [Header("JSON")]
-    public string jsonResourceName = "Preguntas";  // nombre del TextAsset en Resources (sin .json)
-    public string nivelActual = "nivel_1";         // nivel que quieres usar
+    public string jsonResourceName = "Preguntas";
+    public string nivelActual = "nivel_1";
 
     [Header("Gameplay")]
-    public GameObject tilemapConPilar;             // Tilemap duplicado con el pilar
-    public int respuestasNecesarias = 5;           // Respuestas correctas necesarias para desbloquear
-    public float tiempoBajada = 2f;                // duración de la animación
-    public float distanciaBajada = 5f;             // distancia en Y que baja el pilar
+    public GameObject tilemapConPilar;
+    public int respuestasNecesarias = 5;
+    public float tiempoBajada = 2f;
+    public float distanciaBajada = 5f;
 
-    private int respuestasCorrectas = 0;           // Contador de respuestas correctas
-    private bool desbloqueado = false;             // Estado de desbloqueo
+    [Header("Vida del jugador")]
+    public PlayerHealth playerHealth;   // 👈 referencia al script PlayerHealth
+
+    private int respuestasCorrectas = 0;
+    private bool desbloqueado = false;
 
     private Root root;
     private List<Pregunta> pool;
@@ -72,18 +75,17 @@ public class SistemaPreguntas : MonoBehaviour
         TextAsset ta = Resources.Load<TextAsset>(jsonResourceName);
         if (ta == null)
         {
-            Debug.LogError($"[SistemaPreguntas] No se encontró Resources/{jsonResourceName}.json. Colócalo en Assets/Resources/");
+            Debug.LogError($"[SistemaPreguntas] No se encontró Resources/{jsonResourceName}.json");
             return false;
         }
 
         root = JsonUtility.FromJson<Root>(ta.text);
         if (root == null || root.matematicas == null)
         {
-            Debug.LogError("[SistemaPreguntas] JSON parse falló o estructura 'matematicas' no encontrada.");
+            Debug.LogError("[SistemaPreguntas] JSON parse falló.");
             return false;
         }
 
-        // Elegir lista según nivelActual
         switch (nivelActual)
         {
             case "nivel_1": pool = root.matematicas.nivel_1; break;
@@ -93,13 +95,7 @@ public class SistemaPreguntas : MonoBehaviour
             default: pool = root.matematicas.nivel_1; break;
         }
 
-        if (pool == null || pool.Count == 0)
-        {
-            Debug.LogError($"[SistemaPreguntas] No hay preguntas en {nivelActual} o la lista es nula.");
-            return false;
-        }
-        Debug.Log($"[SistemaPreguntas] Cargadas {pool.Count} preguntas de {nivelActual}.");
-        return true;
+        return pool != null && pool.Count > 0;
     }
 
     void SetupButtonListeners()
@@ -117,31 +113,28 @@ public class SistemaPreguntas : MonoBehaviour
         preguntaActual = pool[Random.Range(0, pool.Count)];
         textoPregunta.text = preguntaActual.enunciado;
 
-        // Rellenar textos de opciones
         for (int i = 0; i < textosOpciones.Length; i++)
         {
-            if (i < preguntaActual.opciones.Length) textosOpciones[i].text = preguntaActual.opciones[i].texto;
-            else textosOpciones[i].text = "";
+            if (i < preguntaActual.opciones.Length)
+                textosOpciones[i].text = preguntaActual.opciones[i].texto;
+            else
+                textosOpciones[i].text = "";
         }
     }
 
     void OnOpcionSeleccionada(int indice)
     {
         if (preguntaActual == null) return;
-        if (indice >= preguntaActual.opciones.Length)
-        {
-            Debug.LogWarning("[SistemaPreguntas] Índice de opción fuera de rango.");
-            return;
-        }
+        if (indice >= preguntaActual.opciones.Length) return;
 
-        string seleccionado = preguntaActual.opciones[indice].id; // "A"/"B"/...
+        string seleccionado = preguntaActual.opciones[indice].id;
         bool correcto = seleccionado == preguntaActual.respuesta_correcta;
+
         if (correcto)
         {
             Debug.Log("✅ Correcto!");
             respuestasCorrectas++;
 
-            // Verificar si se alcanzó el número necesario de respuestas correctas
             if (!desbloqueado && respuestasCorrectas >= respuestasNecesarias)
             {
                 desbloqueado = true;
@@ -149,18 +142,17 @@ public class SistemaPreguntas : MonoBehaviour
                 {
                     StartCoroutine(BajarPilar());
                 }
-                else
-                {
-                    Debug.LogWarning("[SistemaPreguntas] tilemapConPilar no está asignado.");
-                }
             }
         }
         else
         {
-            Debug.Log("❌ Incorrecto.");
+            Debug.Log("❌ Incorrecto. Pierdes un corazón.");
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(1);   // 👈 Le quita 1 vida
+            }
         }
 
-        // Mostrar la siguiente pregunta
         MostrarPreguntaAleatoria();
     }
 
@@ -179,12 +171,10 @@ public class SistemaPreguntas : MonoBehaviour
 
         tilemapConPilar.transform.position = destino;
 
-        // Desactivar la colisión al terminar
         TilemapCollider2D collider = tilemapConPilar.GetComponent<TilemapCollider2D>();
         if (collider != null)
         {
             collider.enabled = false;
-            Debug.Log("🎉 ¡Pilar desbloqueado suavemente!");
         }
     }
 }

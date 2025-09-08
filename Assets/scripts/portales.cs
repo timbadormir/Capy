@@ -8,7 +8,7 @@ public class CambioDeEscenaPorColision : MonoBehaviour
   Debug.Log("Entró al portal");
         if (collision.CompareTag("Portal"))
         {
-            SceneManager.LoadScene("sabana");
+            SceneManager.LoadScene("Menu");
         }
     }
 }

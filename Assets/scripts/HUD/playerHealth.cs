@@ -63,6 +63,11 @@ public class PlayerHealth : MonoBehaviour
             {
                 fullHearts[i].enabled = false;
                 emptyHearts[i].enabled = true;
+                if (currentHealth <= 0)
+                {
+                    FindObjectOfType<PantallaMuerte>().ActivarPantalla();
+                }
+
             }
         }
     }
