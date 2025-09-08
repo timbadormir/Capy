@@ -9,7 +9,7 @@ echo ==================================================
 echo.
 
 :: Ir a la carpeta del proyecto
-cd /d "C:\Users\Drxco_rk\Desktop\sena\NUEVO CAPY"
+cd /d "C:\Users\San\Escritorio\NUEVO CAPY"
 
 :: Asegurar que siempre esté en la rama eteches
 git checkout eteches
